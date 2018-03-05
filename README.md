@@ -1,2 +1,1 @@
-# hallettlab.github.io
-Lab website
+Hallett Lab website
