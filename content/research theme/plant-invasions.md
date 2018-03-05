@@ -4,9 +4,9 @@ date: 2017-07-20
 ---
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="/img/sheltersfall.jpg" caption="Rainfall shelters" alt="Rainfall manipulations in the fall at SFREC">}}
-  {{< figure src="/img/shelterflower.jpg" caption="Clarkia in rainfall shelters" alt="Clarkia growing well under a rainfall manipulation" >}}
-  {{< figure src="/img/caitlincounting2.jpg" caption="SFREC recruitment study" alt="Caitlin censuing recruits in a field manipulation" >}}
+  {{< figure src="/img/medusahead.jpg" caption="Medusahead invades SFREC" alt="A patch of Medusahead at the Sierra Foothills Research and Extension Center">}}
+  {{< figure src="/img/bromelayia.jpg" caption="Bromus invades Jasper Ridge" alt="Bromus hordeaceus mixed with Layia platyglossa at Jasper Ridge" >}}
+  {{< figure src="/img/ivy.jpg" caption="Ivy at the Berkeley campus" alt="Ornamental ivy has invaded UC Berkeley natural areas" >}}
 {{< /gallery >}}
 
 <!--more-->
@@ -15,8 +15,9 @@ Overview of invasions
 
 ## Serpentine grasslands
 
-## Medusahead
+## Medusahead in rangelands
 
 ## Nitrogen deposition and resilience
 
+## Ivy in urban environments
 <!--more-->
