@@ -53,7 +53,7 @@ pygmentsCodefencesGuessSyntax = true
 
  [[menu.main]]
     name = "People"
-    url = "/people/"
+    url = "/lab member/"
     weight = 1
 
 [[menu.main]]
@@ -64,13 +64,13 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Research"
     name = "Where we work"
-    url = "where/"
+    url = "/study system/"
     weight = 1
 
 [[menu.main]]
     parent = "Research"
     name = "What we do"
-    url = "what/"
+    url = "/research theme/"
     weight = 2
 
 [[menu.main]]
@@ -92,7 +92,7 @@ pygmentsCodefencesGuessSyntax = true
     
     [[menu.main]]
     name = "News"
-    url = "/post/"
+    url = "/lab news/"
     weight = 5
     
 #[[menu.main]]
