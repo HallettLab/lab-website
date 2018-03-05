@@ -1,7 +1,7 @@
 baseurl = "https://hallettlab.netlify.com/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Hallett lab"
+title = "Hallett Lab"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"

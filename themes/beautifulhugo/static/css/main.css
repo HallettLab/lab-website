@@ -28,7 +28,7 @@ p {
 }
 p + p {
     margin: 24px 0 6px 0;
-}
+} 
 p a {
   /* text-decoration: underline */
   color: #008AFF;
