@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peoples on Hallett lab</title>
+    <link>/people/</link>
+    <description>Recent content in Peoples on Hallett lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>hallett@uoregon.edu (Lauren Hallett)</managingEditor>
+    <webMaster>hallett@uoregon.edu (Lauren Hallett)</webMaster>
+    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lauren Hallett</title>
+      <link>/people/0_lauren-hallett/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      <author>hallett@uoregon.edu (Lauren Hallett)</author>
+      <guid>/people/0_lauren-hallett/</guid>
+      <description>&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/headshots/LaurenHallett3.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/img/headshots/LaurenHallett3.jpg&#34; alt=&#34;Lauren Hallett&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;/img/headshots/LaurenHallett3.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alejandro Brambila</title>
+      <link>/people/02_alejandro-brambila/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <author>hallett@uoregon.edu (Lauren Hallett)</author>
+      <guid>/people/02_alejandro-brambila/</guid>
+      <description>&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/headshots/alejandro_brambila.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/img/headshots/alejandro_brambila.jpg&#34; alt=&#34;Alejandro Brambila&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;/img/headshots/alejandro_brambila.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Laura Johnson</title>
+      <link>/people/03_laura-johnson/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <author>hallett@uoregon.edu (Lauren Hallett)</author>
+      <guid>/people/03_laura-johnson/</guid>
+      <description>&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/headshots/laura_johnson.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/img/headshots/laura_johnson.jpg&#34; alt=&#34;Laura Johnson&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;/img/headshots/laura_johnson.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

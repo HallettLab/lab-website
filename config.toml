@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://hallettlab.netlify.com/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Hallett lab"
