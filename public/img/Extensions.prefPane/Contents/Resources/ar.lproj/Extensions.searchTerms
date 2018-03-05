@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>الملحقات، ملحقات، extensions</string>
+				<key>title</key>
+				<string>الملحقات</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>توصيف، التوصيف، markup, mark up</string>
+				<key>title</key>
+				<string>الإجراءات</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>مشاركة، المشاركة، شارك، قائمة القراءة، قائمة قراءة، بريد، البريد، الرسائل، رسائل، تويتر، فيسبوك، sharing, share, reading list, mail, messages, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, aperture, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>مشاركة عناصر القائمة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>اليوم، أداة، الأداة، مركز الإشعارات، مركز الإعلامات، التقويم، تقويم، التذكيرات، تذكيرات، الأسهم، أسهم، الطقس، طقس، الساعة العالمية، ساعة عالمية، اجتماعي اجتماعية، الحاسبة، حاسبة، today, widget, notification center, calendar, reminders, stocks, weather, world clock, social, calculator</string>
+				<key>title</key>
+				<string>أدوات عرض اليوم</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

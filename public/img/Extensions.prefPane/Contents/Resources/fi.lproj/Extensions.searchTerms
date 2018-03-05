@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>laajennukset</string>
+				<key>title</key>
+				<string>Laajennukset</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>merkintä, merkitse</string>
+				<key>title</key>
+				<string>Toiminnot</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>jako, jaa, jakaminen, lukulista, sähköposti, email, viestit, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, aperture, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>Jakovalikon kohteet</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>tänään, widgetti, ilmoituskeskus, kalenteri, muistutukset, pörssi, sää, maailmankello, yhteisöt, some, sosiaalinen, verkosto, laskin</string>
+				<key>title</key>
+				<string>Tänään-näkymän widgetit</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

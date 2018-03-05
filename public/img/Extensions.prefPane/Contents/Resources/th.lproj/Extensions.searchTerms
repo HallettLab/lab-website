@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ส่วนขยาย</string>
+				<key>title</key>
+				<string>ส่วนขยาย</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ทำเครื่องหมาย, การทำเครื่องหมาย</string>
+				<key>title</key>
+				<string>การกระทำ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>การแชร์, แชร์, รายการอ่าน, เมล, ข้อความ, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, aperture, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>แชร์รายการเมนู</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>วันนี้, วิดเจ็ต, ศูนย์การแจ้งเตือน, ปฏิทิน, เตือนความจำ, หุ้น, สภาพอากาศ, นาฬิกาโลก, สังคม, เครื่องคิดเลข</string>
+				<key>title</key>
+				<string>วิดเจ็ตมุมมองวันนี้</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

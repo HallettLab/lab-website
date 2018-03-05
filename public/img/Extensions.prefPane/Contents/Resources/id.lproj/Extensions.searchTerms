@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>ekstensi</string>
+				<key>title</key>
+				<string>Ekstensi</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>markah, markah</string>
+				<key>title</key>
+				<string>Tindakan</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>berbagi, bagikan, daftar bacaan, mail, pesan, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, aperture, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>Bagikan item menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>hari ini, widget, pusat pemberitahuan, kalender, pengingat, saham, cuaca, jam dunia, sosial, kalkulator</string>
+				<key>title</key>
+				<string>Widget tampilan Hari Ini</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné slová indexu</string>
+				<key>index</key>
+				<string>rozšírenia</string>
+				<key>title</key>
+				<string>Rozšírenia</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné slová indexu</string>
+				<key>index</key>
+				<string>označiť, označovanie</string>
+				<key>title</key>
+				<string>Akcie</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné slová indexu</string>
+				<key>index</key>
+				<string>zdieľanie, zdieľať, zoznam na prečítanie, mail, správy, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, aperture, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>Položky menu zdieľania</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné slová indexu</string>
+				<key>index</key>
+				<string>dnes, widget, centrum hlásení, kalendár, pripomienky, akcie, počasie, svetový čas, sociálne siete, kalkulačka</string>
+				<key>title</key>
+				<string>Widgety v zobrazení Dnes</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

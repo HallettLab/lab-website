@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>extensions</string>
+				<key>title</key>
+				<string>Extensions</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>balisage, baliser</string>
+				<key>title</key>
+				<string>Actions</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>partage, partager, liste de lecture, e-mail, messagerie, messages, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, aperture, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>Éléments du menu de partage</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>aujourd’hui, widget, centre de notifications, calendrier, rappels, bourse, météo, horloge mondiale, social, calculette</string>
+				<key>title</key>
+				<string>Widgets de l’affichage du jour</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

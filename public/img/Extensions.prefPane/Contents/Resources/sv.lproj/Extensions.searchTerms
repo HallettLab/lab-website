@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>tillägg</string>
+				<key>title</key>
+				<string>Tillägg</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>märkning, märka</string>
+				<key>title</key>
+				<string>Åtgärder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>dela, delning, läslista, mail, mejl, e-post, brev, meddelanden, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, aperture, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>Objekt i delningsmenyn</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>idag, widget, notiscenter, kalender, påminnelser, aktier, väder, världsklocka, social, kalkylator</string>
+				<key>title</key>
+				<string>Widgetar för Idag-vyn</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>extensii</string>
+				<key>title</key>
+				<string>Extensii</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>marcaj, marcare</string>
+				<key>title</key>
+				<string>Acțiuni</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>partajare, partajează, listă de lecturi, mail, e-mail, mesaje, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, aperture, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>Articole meniu Partajare</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>astăzi, azi, widget, centru notificări, centru de notificări, calendar, mementouri, bursa, vremea, ceas global, socializare, calculator</string>
+				<key>title</key>
+				<string>Widgeturi pentru informațiile zilei</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

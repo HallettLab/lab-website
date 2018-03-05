@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>एक्सटेंशन</string>
+				<key>title</key>
+				<string>एक्सटेंशन</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>मार्कअप, मार्क अप</string>
+				<key>title</key>
+				<string>क्रियाएँ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>साझा करना, साझा करें, पठन सूची, मेल, संदेश, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, ऐपर्चर, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>मेनू आइटम साझा करें</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>आज, विजेट, सूचना केंद्र, कैलेंडर, रिमाइंडर, स्टॉक, मौसम, विश्व घड़ी, सोशल, कैलकुलेटर</string>
+				<key>title</key>
+				<string>आज दृश्य विजेट</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

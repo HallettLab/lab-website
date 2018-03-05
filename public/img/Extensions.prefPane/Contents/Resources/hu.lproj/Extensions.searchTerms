@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>bővítmények</string>
+				<key>title</key>
+				<string>Bővítmények</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>jelölés, megjelölés</string>
+				<key>title</key>
+				<string>Műveletek</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>megosztás, megoszt, olvasási lista, mail, levél, üzenet, üzenetek, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, aperture, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>Menüelemek megosztása</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>ma, mai, widget, értesítési központ, naptár, emlékeztetők, részvények, időjárás, világóra, közösségi, számológép</string>
+				<key>title</key>
+				<string>Widgetek mai nézetben</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

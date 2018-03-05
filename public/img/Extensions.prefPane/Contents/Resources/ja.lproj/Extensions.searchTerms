@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>機能拡張</string>
+				<key>title</key>
+				<string>機能拡張</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>markup マークアップ, mark up</string>
+				<key>title</key>
+				<string>アクション</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>sharing 共有する シェアする 共用する, reading list リーディングリスト, mail メール Eメール 電子メール, messages メッセージ, airdrop エアドロップ エアードロップ, twitter ツイッター, Facebook フェイスブック フェースブック, linkedin リンクトイン リンクドイン, vimeo ビメオ ヴィメオ, flickr フリッカー, iphoto アイフォト, aperture アパチャー, sina weibo シナウェイボー, tencent weibo テンセントウェイボー, youku ヨウク ヨーク, tudou トゥドゥ</string>
+				<key>title</key>
+				<string>メニュー項目を共有</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>today 今日 本日, widget ウィジェット, notification center 通知センター, calendar カレンダー, reminders リマインダー リマインダ, stocks 株価 株式, weather 天気 天候 ウェザー 気象, world clock 世界時計 ワールドクロック, social ソーシャル, calculator 計算機 電卓</string>
+				<key>title</key>
+				<string>“今日”パネルに表示するウィジェット</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

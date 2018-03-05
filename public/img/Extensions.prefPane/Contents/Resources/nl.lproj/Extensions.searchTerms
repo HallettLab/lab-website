@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>extensies</string>
+				<key>title</key>
+				<string>Extensies</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>markeren, markering</string>
+				<key>title</key>
+				<string>Taken</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>delen, deel, deling, leeslijst, mail, berichten, airdrop, twitter, facebook, linkedin, vimeo, flickr, iphoto, aperture, sina weibo, tencent weibo, youku, tudou</string>
+				<key>title</key>
+				<string>Onderdelen in Deel-menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>vandaag, widget, berichtencentrum, agenda, herinneringen, aandelen, weer, wereldklok, sociaal, rekenmachine, calculator</string>
+				<key>title</key>
+				<string>Widgets voor weergave 'Vandaag'</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
