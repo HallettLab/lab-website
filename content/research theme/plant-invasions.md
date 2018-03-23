@@ -11,13 +11,20 @@ date: 2017-07-20
 
 <!--more-->
 
-Overview of invasions 
+Environmental change - precipitation, N deposition, temperature, land use change - increasing at a rapid rate. Shifting environmental conditions - change competitive interactions among species and facilitate the invasion of new species. [potentially multiple drivers]. Interest in - anticipating and managing for future invasions, and 
 
 ## Serpentine grasslands
 
+Collaborator: Richard Hobbs
+
 ## Medusahead in rangelands
 
+Collaborators: Emily Farrer, Claudia Stein, Erica Spotswood, Katie Suding
 ## Nitrogen deposition and resilience
 
+Collaborators: Loralee Larios & Katie Suding
 ## Ivy in urban environments
+Removal not always doable - may need to determine to allow, and how to maximize other goals in the presence of invaders. 
+
+Collaborators: Dylan Chapple, and the guys
 <!--more-->
