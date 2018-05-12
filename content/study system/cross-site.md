@@ -5,7 +5,7 @@ date: 2017-03-07
 
 ---
 
-<image src="/img/LTER.jpg"/>
+<image thumb="-thumb" src="/img/LTER.jpg"/>
 
 <!--more-->
 
