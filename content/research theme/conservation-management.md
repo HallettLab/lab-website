@@ -5,9 +5,9 @@ date: 2017-06-20
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="/img/checkerspot.jpg" caption="Rainfall shelters" alt="Rainfall manipulations in the fall at SFREC">}}
-  {{< figure src="/img/vascosheep.jpg" caption="Clarkia in rainfall shelters" alt="Clarkia growing well under a rainfall manipulation" >}}
-  {{< figure src="/img/caitlincounting2.jpg" caption="SFREC recruitment study" alt="Caitlin censuing recruits in a field manipulation" >}}
+  {{< figure thumb="-thumb" src="/img/checkerspot.jpg" caption="Rainfall shelters" alt="Rainfall manipulations in the fall at SFREC">}}
+  {{< figure thumb="-thumb" src="/img/vascosheep.jpg" caption="Clarkia in rainfall shelters" alt="Clarkia growing well under a rainfall manipulation" >}}
+  {{< figure thumb="-thumb" src="/img/caitlincounting2.jpg" caption="SFREC recruitment study" alt="Caitlin censuing recruits in a field manipulation" >}}
 {{< /gallery >}}
 
 _What goals should we set for conservation efforts in an era of global change? Are there creative, science-based tools to achieving these goals?_
