@@ -7,7 +7,7 @@ date: 2018-02-20
 
 
 {{< gallery >}}
-  {{< figure src="/img/headshots/LaurenHallett3.jpg" alt="Lauren Hallett">}}
+  {{< figure thumb="-thumb" src="/img/headshots/LaurenHallett3.jpg" alt="Lauren Hallett">}}
 {{< /gallery >}}
 
 
