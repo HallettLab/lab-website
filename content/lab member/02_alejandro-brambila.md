@@ -7,7 +7,7 @@ date: 2017-04-20
 
 
 {{< gallery >}}
-  {{< figure thumb="-thumb" src="/img/headshots/alejandro_brambila.jpg" alt="Alejandro Brambila">}}
+  {{< figure thumb="_tn" src="/img/headshots/alejandro_brambila.jpg" alt="Alejandro Brambila">}}
 {{< /gallery >}} 
 
 <!--more-->

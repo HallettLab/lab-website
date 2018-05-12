@@ -6,9 +6,9 @@ date: 2017-12-07
 ---
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" src="/img/sfrec_fence.jpg" caption="Sierra Foothills" alt="Pasture and oak woodlands at Sierra Foothills Research and Extension Center">}}
-  {{< figure thumb="-thumb" src="/img/grassoak.jpg" caption="Jasper Ridge" alt="Oak woodland invaded by Baccharis at Jasper Ridge" >}}
-  {{< figure thumb="-thumb" src="/img/vascocaitlin.jpg" caption="Vasco Caves" alt="Caitlin returns triumphant from sampling the last Stipa demography plot" >}}
+  {{< figure thumb="_tn" src="/img/sfrec_fence.jpg" caption="Sierra Foothills" alt="Pasture and oak woodlands at Sierra Foothills Research and Extension Center">}}
+  {{< figure thumb="_tn" src="/img/grassoak.jpg" caption="Jasper Ridge" alt="Oak woodland invaded by Baccharis at Jasper Ridge" >}}
+  {{< figure thumb="_tn" src="/img/vascocaitlin.jpg" caption="Vasco Caves" alt="Caitlin returns triumphant from sampling the last Stipa demography plot" >}}
 {{< /gallery >}}
 
 <!--more-->

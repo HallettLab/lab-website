@@ -5,9 +5,9 @@ date: 2017-10-20
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" src="/img/jasperserpentine.jpg" caption="Jasper Ridge" alt="A good year for Lasthenia at Jasper Ridge">}}
-  {{< figure thumb="-thumb" src="/img/yellowbrickroad3.jpg" caption="Yellow brick road" alt="Richard and Joan on the yellowbrick road" >}}
-  {{< figure thumb="-thumb" src="/img/poppylasthenia.jpg" caption="Poppies" alt="California poppies at Kirby Canyon" >}}
+  {{< figure thumb="_tn" src="/img/jasperserpentine.jpg" caption="Jasper Ridge" alt="A good year for Lasthenia at Jasper Ridge">}}
+  {{< figure thumb="_tn" src="/img/yellowbrickroad3.jpg" caption="Yellow brick road" alt="Richard and Joan on the yellowbrick road" >}}
+  {{< figure thumb="_tn" src="/img/poppylasthenia.jpg" caption="Poppies" alt="California poppies at Kirby Canyon" >}}
 {{< /gallery >}}
 
 <!--more-->
