@@ -4,8 +4,8 @@ date: 2017-10-20
 ---
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="/img/lawrence.jpg" caption="Rainfall shelters" alt="Rainfall manipulations in the fall at SFREC">}}
-  {{< figure src="/img/peniuptractor.jpg" caption="Clarkia in rainfall shelters" alt="Clarkia growing well under a rainfall manipulation" >}}
+  {{< figure src="/img/lawrence.jpg" caption="Trait measurements" alt="Lawrence measures plant height for the Strawberry Creek trait-based restoration study">}}
+  {{< figure src="/img/peniuptractor.jpg" caption="Old-field restoration" alt="Seeding in a restoration trial at Peniup, Western Australia" >}}
   {{< figure src="/img/caitlincounting2.jpg" caption="SFREC recruitment study" alt="Caitlin censuing recruits in a field manipulation" >}}
 {{< /gallery >}}
 

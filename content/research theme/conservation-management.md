@@ -5,9 +5,9 @@ date: 2017-06-20
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="_tn" src="/img/checkerspot.jpg" caption="Rainfall shelters" alt="Rainfall manipulations in the fall at SFREC">}}
-  {{< figure thumb="_tn" src="/img/vascosheep.jpg" caption="Clarkia in rainfall shelters" alt="Clarkia growing well under a rainfall manipulation" >}}
-  {{< figure thumb="_tn" src="/img/caitlincounting2.jpg" caption="SFREC recruitment study" alt="Caitlin censuing recruits in a field manipulation" >}}
+  {{< figure thumb="_tn" src="/img/checkerspot.jpg" caption="Checkerspot butterfly" alt="Bay Area checkerspot butterfly at Kirby Canyon, CA">}}
+  {{< figure thumb="_tn" src="/img/vascosheep.jpg" caption="Sheep herd at Vasco Caves, CA" alt="Clarkia growing well under a rainfall manipulation" >}}
+  {{< figure thumb="_tn" src="/img/2014_adult and juvenile.jpg" caption="Adult and juvenile Stipa" alt="Stipa individuals in a long-term demographic study at Vasco Caves, CA" >}}
 {{< /gallery >}}
 
 _What goals should we set for conservation efforts in an era of global change? Are there creative, science-based tools to achieving these goals?_
