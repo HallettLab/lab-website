@@ -5,7 +5,7 @@ date: 2017-03-07
 
 ---
 
-<image thumb="_tn" src="/img/LTER.jpg"/>
+<image thumb="_tn" src="/img/LTER.jpg" caption="Grassland LTER sites across the US">
 
 <!--more-->
 
@@ -16,4 +16,4 @@ The lab is involved in several projects that synthesize data collected from plan
 
 Currently the lab is most active in the [LTER Synchrony]( https://www.nceas.ucsb.edu/featured/hallett) working group. 
 
-We also work with an NCEAS team that is trying to make it easier for other people to do these types of syntheses. We developed and maintain a user-friendly R package, `codyn` to characterize community change over time. It is published on [CRAN](https://cran.r-project.org/web/packages/codyn/index.html), the latest version and issue tracker are on [GitHub](https://github.com/NCEAS/codyn). 
+We also work with a National Center for Ecological Analysis and Synthesis (NCEAS) team that is trying to make it easier for other people to do these types of syntheses. We developed and maintain a user-friendly R package, `codyn` to characterize community change over time. It is published on [CRAN](https://cran.r-project.org/web/packages/codyn/index.html), the latest version and issue tracker are on [GitHub](https://github.com/NCEAS/codyn). 

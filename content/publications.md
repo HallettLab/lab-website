@@ -21,7 +21,7 @@ Hallett, L. M., T. Morelli, L. R. Gerber, M. Moritz, M. W. Schwartz, N. L. Steph
 
 Enquist, C. et al. (including L. M. Hallett). Foundations of Translational Ecology. Accepted, Frontiers in Ecology and the Environment (Invited paper for a special issue). 
 
-Larios, L., L. M. Hallett, K. N. Suding. When and how to restore in a changing world: a demographic-based assessment of resilience. In press, Journal of Applied Ecology (Invited paper for a special issue).
+Larios, L., L. M. Hallett, K. N. Suding. When and how to restore in a changing world: a demographic-based assessment of resilience. 2017. Journal of Applied Ecology 54(4): 1040–1050  (Invited paper for a special issue).
 
 Shackelford, N. and 16 others (including L. M. Hallett). Connectivity predicts compositional change after discrete disturbances in a global meta-analysis. In press, Ecography.
 
