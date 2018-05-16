@@ -4,3 +4,5 @@
 .Ruserdata
 config.toml
 /public
+*DS_store
+*Rproj.user
