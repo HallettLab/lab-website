@@ -4,3 +4,4 @@
 .Ruserdata
 config.toml
 /public
+.DS_Store
