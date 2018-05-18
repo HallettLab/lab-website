@@ -9,6 +9,8 @@ date: 2017-07-20
   {{< figure thumb="-thumb" src="/img/ivy.jpg" caption="Ivy at the Berkeley campus" alt="Ornamental ivy has invaded UC Berkeley natural areas" >}}
 {{< /gallery >}}
 
+_How does global change affect invasion dynamics? Can we predict invasion dynamics in light of multiple change drivers? _
+
 <!--more-->
 
 Environmental change - precipitation, N deposition, temperature, land use change - increasing at a rapid rate. Shifting environmental conditions can change competitive interactions among species and facilitate the invasion of new species. We use experiments and models to test the effect of multiple global change drivers on patterns of species invasions. Our aim is that by understanding invasion dynamics, we can better prevent future invasions and restore currently invaded ecosystems. 

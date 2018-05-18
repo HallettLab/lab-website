@@ -6,7 +6,7 @@ date: 2017-10-20
 {{< gallery caption-effect="fade" >}}
   {{< figure src="/img/lawrence.jpg" caption="Trait measurements" alt="Lawrence measures plant height for the Strawberry Creek trait-based restoration study">}}
   {{< figure src="/img/peniuptractor.jpg" caption="Old-field restoration" alt="Seeding in a restoration trial at Peniup, Western Australia" >}}
-  {{< figure src="/img/caitlincounting2.jpg" caption="SFREC recruitment study" alt="Caitlin censuing recruits in a field manipulation" >}}
+  {{< figure src="/img/seedling_peniup.jpg" caption="Seedling survival" alt="Measuring seedling survival at Peniup, Western Australia" >}}
 {{< /gallery >}}
 
 _Can we use functional trait relationships to better optimize multiple ecosystem services in complex landscapes? Can it guide species selection in restoration plantings?_

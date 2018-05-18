@@ -73,11 +73,6 @@ pygmentsCodefencesGuessSyntax = true
     url = "/research theme/"
     weight = 2
 
-[[menu.main]]
-    parent = "Research"
-    name = "Why we do it"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
 
 [[menu.main]]
     name = "Teaching"
@@ -92,7 +87,12 @@ pygmentsCodefencesGuessSyntax = true
     
     [[menu.main]]
     name = "News"
-    url = "/lab news/"
+    url = "/news/"
+    weight = 5
+    
+  [[menu.main]]
+    name = "Contact"
+    url = "contact"
     weight = 5
     
 #[[menu.main]]
