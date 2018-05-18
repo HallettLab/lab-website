@@ -29,7 +29,7 @@ A general principle of restoration ecology is to identify and reverse “thresho
 
 ## Related publications
 
-Hallett, L. M., D. E. Chapple, M. N. Bickart*, A. Cherbowsky*, L. Fernandez*, C. H. Ho*, M. Alexander*, K. Schwab*, K. N. Suding. 2017. Niche complementarity enhances native plant restoration in an invaded urban landscape. Ecological Restoration 35(2): 148-155.
+Hallett, L. M., D. E. Chapple, M. N. Bickart, A. Cherbowsky, L. Fernandez, C. H. Ho, M. Alexander, K. Schwab, K. N. Suding. 2017. Niche complementarity enhances native plant restoration in an invaded urban landscape. Ecological Restoration 35(2): 148-155.
 
 Hallett, L.M., R.J. Standish, and R.J. Hobbs. 2011. Seed mass and summer drought survival in a Mediterranean-climate ecosystem. Plant Ecology 212(9): 1479-1489.
 
