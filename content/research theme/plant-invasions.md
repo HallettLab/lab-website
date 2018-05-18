@@ -9,7 +9,7 @@ date: 2017-07-20
   {{< figure thumb="-thumb" src="/img/ivy.jpg" caption="Ivy at the Berkeley campus" alt="Ornamental ivy has invaded UC Berkeley natural areas" >}}
 {{< /gallery >}}
 
-_How does global change affect invasion dynamics? Can we predict invasion dynamics in light of multiple change drivers? _
+_How does global change affect invasion dynamics? Can we predict invasion dynamics in light of multiple change drivers?_
 
 <!--more-->
 
