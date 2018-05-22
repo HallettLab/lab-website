@@ -1,8 +1,7 @@
 ---
-title: Alejandro Brambila
+title: "Alejandro Brambila"
 subtitle: PhD Student
-date: 2017-04-20
-
+date: '2017-04-20'
 ---
 
 
@@ -12,7 +11,7 @@ date: 2017-04-20
 
 <!--more-->
 ### Education
-
+2012 Sc.B. in Biology, Brown University
 
 ### Research Interests
 
