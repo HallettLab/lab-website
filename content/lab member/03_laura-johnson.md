@@ -11,7 +11,7 @@ date: 2017-03-20
 
 <!--more-->
 ### Education
-
+2014 B.S. in Environmental Studies, University of Oregon
 
 ### Research Interests
 
