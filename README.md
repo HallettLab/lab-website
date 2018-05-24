@@ -39,6 +39,8 @@ Use existing pages as a guide. Don't forget to use a double-space if you want a 
 4) Preview your changes! You can do this by running the following script in the console:
 `blogdown::serve_site()`
 
+Do NOT use the Preview tab in RStudio. If you accidentally do, delete the html file it creates!
+
 The website should appear in the Viewer tab of RStudio. You can open it in a browser by clicking on the arrow-to-browser icon on the upper left of the Viewer tab.
 
 5) When you are satisifed, share your updates. 
