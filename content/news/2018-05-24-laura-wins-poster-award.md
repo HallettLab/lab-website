@@ -9,4 +9,4 @@ subtitle: ''
 ---
 
 #### May 2018
-Laura's poster on extinction debts in freshwater mussels won the "Best Content" award at the Annual Jount Campus Conference this year. Congrats Laura!
+Laura's poster on extinction debts in freshwater mussels won the "Best Content" award at the Annual Joint Campus Conference this year. Congrats Laura!
