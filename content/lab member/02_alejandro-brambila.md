@@ -12,8 +12,8 @@ date: '2017-04-20'
 <!--more-->
 ### Education
 2012 Sc.B. in Biology, Brown University  
-2013 Resarch Fellowhip - University of Talca, Chile  
-2014 Reserach Internship - University of Buenos Aires, Argentina  
+2013 Research Fellowhip - University of Talca, Chile  
+2014 Research Internship - University of Buenos Aires, Argentina  
 
 ### Research Interests
 
