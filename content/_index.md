@@ -1,4 +1,2 @@
 ## Welcome!
 We are community ecologists in the Environmental Studies Program and the Biology Department at the University of Oregon. Our goal is to produce “usable” science to improve ecosystem management and restoration. We use a combination of long-term data analysis, population modeling and field experiments to this end. Our work spans a variety of systems, including working rangelands, serpentine grasslands, oak woodlands, alpine and rivers. 
-
-**We are currently looking for a postdoc to join the group! Click [here](http://careers.uoregon.edu/cw/en-us/job/522422/postdoctoral-scholar) for details and to apply.** 
