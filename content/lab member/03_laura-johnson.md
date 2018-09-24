@@ -14,7 +14,7 @@ date: 2017-03-20
 2014 B.S. in Environmental Studies, University of Oregon
 
 ### Research Interests
-
+Aquatic ecosystems, especially freshwater mussel populations in Pacific Northwest streams.
 
 ### Awards
 
