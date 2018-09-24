@@ -17,6 +17,7 @@ date: 2017-03-20
 Aquatic ecosystems, especially freshwater mussel populations in Pacific Northwest streams.
 
 ### Awards
+2018 David S. Easly Memorial Award
 
 
 ### Publications
