@@ -18,7 +18,7 @@ It's been a great summer at My Brother's Farm. Alejandro, Cal, Drew, Naomi, Juli
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="_tn" src="/img/Labnews_2018/veg_survey.jpg" caption="Naomi in a veg plot" alt="Sampling veg to test pig effects on the understory">}}
+  {{< figure thumb="_tn" src="/img/Labnews_2018/veg_survey.jpg" caption="Drew in a veg plot" alt="Sampling veg to test pig effects on the understory">}}
   {{< figure thumb="_tn" src="/img/Labnews_2018/taking_photos.jpg" caption="Cal at a trap" alt="Cal documented the sites with 360 photos" >}}
   {{< figure thumb="_tn" src="/img/Labnews_2018/pigs.jpg" caption="The pigs" alt="Getting ready to deploy the pigs!" >}}
 {{< /gallery >}}
