@@ -16,7 +16,7 @@ date: '2017-04-21'
 2010 Bellarmine University _BA_ in Biology  
 
 ### Research Interests
-I am broadly interesting in community ecology. I study how environmental drivers impact community composition, species traits, and community interactions under global change scenarios.
+I am broadly interested in community ecology. I study how environmental drivers impact community composition, species traits, and community interactions under global change scenarios.
 
 ### Awards
 
