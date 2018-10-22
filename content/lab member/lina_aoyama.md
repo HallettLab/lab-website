@@ -11,10 +11,11 @@ date: '2017-04-19'
 
 <!--more-->
 ### Education
-
+2015 University of California, Berkeley B.S. Molecular Environmental Biology
+2018 University of California, Berkeley M.S. Range Mangement
 
 ### Research Interests
-
+I am broadly interested in understanding the climate change effects on plants and soil in rangeland ecosystems.
 
 ### Awards
 
@@ -22,4 +23,5 @@ date: '2017-04-19'
 
 
 ### Contact
-
+Email: laoyama@uoregon.edu
+Phone: (310) 947-1699
