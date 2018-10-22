@@ -11,6 +11,9 @@ date: '2017-04-21'
 
 <!--more-->
 ### Education
+2018 Colorado State University _PhD_ in Ecology
+2013 Colorado State University _MS_ in Ecology
+2010 Bellarmine University _BA_ in Biology
 
 ### Research Interests
 
@@ -21,4 +24,4 @@ date: '2017-04-21'
 
 
 ### Contact
-
+ashleysh@uoregon.edu
