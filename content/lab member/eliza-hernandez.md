@@ -11,6 +11,7 @@ date: 2017-03-19
 
 <!--more-->
 ### Education
+2015 Cal Poly BS in Biology option Zoology
 
 ### Research Interests
 
