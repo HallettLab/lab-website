@@ -27,5 +27,5 @@ I am broadly interested in understanding the relationships between disturbances 
 Aoyama, L. and L.Huntsinger (in press) Are landowners, managers, and range management academics on the same page about conservation? Rangelands.
 
 ### Contact
-Email: laoyama@uoregon.edu  
-Phone: (310) 947-1699
+laoyama@uoregon.edu  
+
