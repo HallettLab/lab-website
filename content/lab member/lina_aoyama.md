@@ -15,13 +15,17 @@ date: '2017-04-19'
 2018 University of California, Berkeley M.S. Range Mangement
 
 ### Research Interests
-I am broadly interested in understanding the climate change effects on plants and soil in rangeland ecosystems.
+I am broadly interested in understanding the relationships between disturbances and ecological processes on rangelands. I am investigating how we could take proactive steps to prevent loss of ecosystem functions. 
 
 ### Awards
+2017 Central Coast Rangeland Coalition Scholarship
+2017 Oren Pollak Memorial Student Research Grant for Grassland Science
+2018 Promising Scholar Award
+2018 Barker Scholarship Award
 
 ### Publications
-
+Aoyama, L. and L.Huntsinger (in press) Are landowners, managers, and range management academics on the same page about conservation? Rangelands.
 
 ### Contact
-Email: laoyama@uoregon.edu
+Email: laoyama@uoregon.edu  
 Phone: (310) 947-1699
