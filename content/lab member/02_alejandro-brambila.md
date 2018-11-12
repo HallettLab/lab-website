@@ -16,7 +16,7 @@ date: '2017-04-20'
 2014 Research Internship - University of Buenos Aires, Argentina  
 
 ### Research Interests
-
+I am interested in the effect of anthropogenically driven processes including climate change, agriculture and urbanization on plant community composition and trajetories.  
 
 ### Awards
 2017 California Native Plant Society Sally Casey Shooting Stars Graduate Research Scholarship  
