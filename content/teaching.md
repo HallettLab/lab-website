@@ -7,9 +7,7 @@ bigimg: [{src: "/img/studentsvscows2.jpg", desc: "Herding cows at SFREC"}]
 
 ### Intro to environmental science
 #### ENVS 202, Winter 2019
-Environmental science is the study of natural processes and their modification by human activity. To understand and respond to current environmental problems, we need to understand the dynamics that underlie those problems. As such, environmental science is highly interdisciplinary and draws on ecology, geology, biology, meteorology, chemistry and physics. The aims of this course are to build your capacity to apply science to understand environmental issues and to increase your familiarity with topics in environmental science.
-
-This course is part of the three-term core sequence in Environmental Studies and is required for Environmental Studies, but not Environmental Science majors. It is an introductory course, designed for freshmen and sophomores, and satisfies university general education breadth requirements for natural sciences. ENVS 201, 202, 203 may be taken in any order.
+This course aims to build students' capacity to apply science to understand environmental issues and to increase their familiarity with topics in environmental science. It is part of the three-term core sequence in Environmental Studies and is required for Environmental Studies, but not Environmental Science majors. It is an introductory survey course, designed for freshmen and sophomores, and satisfies university general education breadth requirements for natural sciences. 
 
 
 ### Data management and visualization
