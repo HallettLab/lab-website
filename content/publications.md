@@ -12,20 +12,22 @@ bigimg: [{src: "/img/layia.jpg", desc: "Layia"}]
 
 
 
-Collins, S. L., M. L. Avolio, C. Gries, L. M. Hallett, S. E. Koerner, K. J. La Pierre, A. L. Rypel, E. R. Sokol, S. B. Fey, D. F. B. Flynn, S. K. Jones, L. M. Ladwig, J. Ripplinger, M. B. Jones. Temporal heterogeneity increases with spatial heterogeneity in ecological communities. Accepted, Ecology. 
+Hallett, L. M., E. C. Farrer, K. N. Suding, H. A. Mooney, R. J. Hobbs. 2018. Tradeoffs in demographic mechanisms underlie differences in species abundance and stability. Nature Communications 9, Article number: 5047.
 
-Wilcox, K. R., A. T. Tredennick, S. E. Koerner, E. Grman, L. M. 
-Hallett, M. L. Avolio, K. J. La Pierre, G. R. Houseman, F. Isbell, D. S. Johnson, et al. Asynchrony among local communities stabilizes ecosystem function of metacommunities. Accepted, Ecology Letters.
+Collins, S. L., M. L. Avolio, C. Gries, L. M. Hallett, S. E. Koerner, K. J. Lan Pierre, A. L. Rypel, E. R. Sokol, S. B. Fey, D. F. B. Flynn, S. K. Jones, L. M. Ladwig, J. Ripplinger, M. B. Jones. 2018. Temporal heterogeneity increases with spatial heterogeneity in ecological communities. Ecology 99(4): 8585-865.
 
-Hallett, L. M., T. Morelli, L. R. Gerber, M. Moritz, M. W. Schwartz, N. L. Stephenson, J. L. Tank, M. A. Williamson, C. A. Woodhouse. Navigating translation ecology: Creating opportunities for scientist participation. Accepted, Frontiers in Ecology and the Environment (Invited paper for a special issue).
+Wilcox, K. R., A. T. Tredennick, S. E. Koerner, E. Grman, L. M. Hallett, M. L. Avolio, K. J. La Pierre, G. R. Houseman, F. Isbell, D. S. Johnson, et al. 2017. Asynchrony among local communities stabilizes ecosystem function of metacommunities. Ecology Letters 20(12): 1534-1545.
 
-Enquist, C. et al. (including L. M. Hallett). Foundations of Translational Ecology. Accepted, Frontiers in Ecology and the Environment (Invited paper for a special issue). 
+Hallett, L. M., T. Morelli, L. R. Gerber, M. Moritz, M. W. Schwartz, N. L. Stephenson, J. L. Tank, M. A. Williamson, C. A. Woodhouse. 2017. Navigating translation ecology: Creating opportunities for scientist participation. Frontiers in Ecology and the Environment 15(10): 578-586 (Invited paper for a special issue).
+
+Enquist, C. A. F. et al. and 27 others (including L. M. Hallett). 2017. Foundations of Translational Ecology. Frontiers in Ecology and the Environment 15(10): 451-550 (Invited paper for a special issue). 
 
 Larios, L., L. M. Hallett, K. N. Suding. When and how to restore in a changing world: a demographic-based assessment of resilience. 2017. Journal of Applied Ecology 54(4): 1040–1050  (Invited paper for a special issue).
 
 Shackelford, N. and 16 others (including L. M. Hallett). Connectivity predicts compositional change after discrete disturbances in a global meta-analysis. In press, Ecography.
 
-Hallett, L. M., D. E. Chapple, M. N. Bickart*, A. Cherbowsky*, L. Fernandez*, C. H. Ho*, M. Alexander*, K. Schwab*, K. N. Suding. 2017. Niche complementarity enhances native plant restoration in an invaded urban landscape. Ecological Restoration 35(2): 148-155.
+Hallett, L. M., D. E. Chapple, M. N. Bickart\*, A. Cherbowsky\*, L. Fernandez\*, C. H. Ho\*, M. Alexander\*, K. Schwab\*, K. N. Suding. 2017. Niche complementarity enhances native plant restoration in an invaded urban landscape. Ecological Restoration 35(2): 148-155.
+\*undergraduate coauthor
 
 Hallett, L. M., C. Stein and K. N. Suding. 2017. Functional diversity increases ecological stability in a grazed grassland. Oecologia 183(3): 831-840.
 
