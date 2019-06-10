@@ -22,6 +22,13 @@ then load the package using the script:
 5) Clone the repository. Using the terminal, navigate to the location you would like the website folder stored in. Copy the web URL from the green "Clone or download" tab on the repository homepage, and clone it to your local drive by entering `git clone thewebURL` in the terminal. In this case, it would be:
 `git clone https://github.com/HallettLab/lab-website.git`
 
+### Notes for PC users
+1. Pull up command prompt in Windows
+2. Type in dir to pull up your directory with your files and folders
+3. Type cd (spac)e and type in the folder you want to save it to (such as Documents): cd Documents
+4. Type git clone (space) then paste the link from github of the repository you want to clone
+5. Check your Documents folder (or wherever you have decided to save the repository), it should be there!
+
 
 ## Updating a page
 
