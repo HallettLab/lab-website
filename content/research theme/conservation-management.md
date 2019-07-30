@@ -28,8 +28,9 @@ Compost amendments are gaining traction in California as a tool to increase soil
 Hazelnut production is a booming industry in the Willamette Valley, with Oregon producing 99 percent of US hazelnuts. There is a small but growing number of farms focusing on organic hazelnut production. Pest management is a critical issue on these farms. One pest, the filbert worm (_Cydia laiferreana_), is a native insect that burrows into the nuts. Removing all of the nuts from the ground can break the filbert worm's lifecyle. However, the native host of the filbert worm is the Oregon white oak (_Quercus garryana_), a species of conservation concern in Oregon. In collaboration with Taylor Larson of My Brother's Farm and Betsey Miller of OSU, we are testing whether pig grazing in oak woodlands can reduce pest loads by removing acorns from natural areas within the agricultural matrix. 
 
 ## Related publications
+Hallett, L. M., T. Morelli, L. R. Gerber, M. Moritz, M. W. Schwartz, N. L. Stephenson, J. L. Tank, M. A. Williamson, C. A. Woodhouse. 2017. Navigating translation ecology: Creating opportunities for scientist participation. Frontiers in Ecology and the Environment 15(10): 578-586 (Invited paper for a special issue).
 
-Hobbs, R. J. and 27 others. In press. Managing the whole landscape: historical, hybrid and novel ecosystems. Frontiers in Ecology and the Environment.
+Hobbs, R. J. and 27 others (including L. M. Hallett). 2014. Managing the whole landscape: historical, hybrid and novel ecosystems. Frontiers in Ecology and the Environment 12(10): 557-564.
 
 Stein, C., L. M. Hallett, W. S. Harpole, K. N. Suding. In press. Evaluating ecosystem services provided by non-native species: An experimental test in California grasslands. PLOS ONE.
 

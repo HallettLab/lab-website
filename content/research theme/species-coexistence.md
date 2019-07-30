@@ -20,6 +20,10 @@ California has an extremely variable climate - at one of our California field si
 
 ### Related publication
 
+Hallett, L. M., L. G. Shoemaker, C. T. White, K. N. Suding. Rainfall variability maintains grass-forb coexistence. In press, Ecology Letters.
+
+Hallett, L. M., E. C. Farrer, K. N. Suding, H. A. Mooney, R. J. Hobbs. 2018. Tradeoffs in demographic mechanisms underlie differences in species abundance and stability. Nature Communications 9, Article number: 5047.
+
 Dudney, J. C., L. M. Hallett, L. Larios, E. C. Farrer, E. N. Spotswood, C. Stein, and K. N. Suding. Lagging behind: Have we overlooked previous-year rainfall effects in annual grasslands? Journal of Ecology 105(2): 484-495.
 
 <!--more-->

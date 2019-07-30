@@ -28,9 +28,13 @@ Spatial synchrony - the correlation in fluctuations among populations across spa
 The [LTER Synchrony]( https://www.nceas.ucsb.edu/featured/hallett) working group brings together quantitative and experimental ecologists to integrate methods and concepts from community and population synchrony. Currently, the group is exploring the time-scale specificity of synchrony, how geographies of synchrony relates to beta diversity, and how the drivers and consequences of synchrony shift at different spatial scales.
 
 ### Related publications
+Hallett, L. M., L. G. Shoemaker, C. T. White, K. N. Suding. Rainfall variability maintains grass-forb coexistence. In press, Ecology Letters.
 
-Wilcox, K. R., A. T. Tredennick, S. E. Koerner, E. Grman, L. M. 
-Hallett, M. L. Avolio, K. J. La Pierre, G. R. Houseman, F. Isbell, D. S. Johnson, et al. Asynchrony among local communities stabilizes ecosystem function of metacommunities. Accepted, Ecology Letters.
+Wang, S., T. Lamy, L. M. Hallett, M. Loreau. 2019. Stability and synchrony across ecological hierarchies in heterogeneous metacommunities: linking theory to data. In press, Ecography.
+
+Hallett, L. M., E. C. Farrer, K. N. Suding, H. A. Mooney, R. J. Hobbs. 2018. Tradeoffs in demographic mechanisms underlie differences in species abundance and stability. Nature Communications 9, Article number: 5047.
+
+Wilcox, K. R., A. T. Tredennick, S. E. Koerner, E. Grman, L. M. Hallett, M. L. Avolio, K. J. La Pierre, G. R. Houseman, F. Isbell, D. S. Johnson, et al. 2017. Asynchrony among local communities stabilizes ecosystem function of metacommunities. Ecology Letters 20(12): 1534-1545.
 
 Hallett, L. M., C. Stein and K. N. Suding. 2017. Functional diversity increases ecological stability in a grazed grassland. Oecologia 183(3): 831-840.
 

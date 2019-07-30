@@ -11,6 +11,9 @@ bigimg: [{src: "/img/layia.jpg", desc: "Layia"}]
 <br/>
 
 
+Hallett, L. M., L. G. Shoemaker, C. T. White, K. N. Suding. Rainfall variability maintains grass-forb coexistence. In press, Ecology Letters.
+
+Wang, S., T. Lamy, L. M. Hallett, M. Loreau. 2019. Stability and synchrony across ecological hierarchies in heterogeneous metacommunities: linking theory to data. In press, Ecography.
 
 Hallett, L. M., E. C. Farrer, K. N. Suding, H. A. Mooney, R. J. Hobbs. 2018. Tradeoffs in demographic mechanisms underlie differences in species abundance and stability. Nature Communications 9, Article number: 5047.
 
@@ -39,7 +42,7 @@ Hallett, L. M., S. Jones, A. A. M. MacDonald, D. F. B. Flynn, J. Ripplinger, P. 
 
 Dudney, J. C., L. M. Hallett, E. N. Spotswood, and K. N. Suding. In press. Invasive species and ecological restoration. Allison, S. and S. Murphy, eds. Routledge handbook of ecological and environmental restoration. Routledge Publishing.
 
-Hobbs, R. J. and 27 others. In press. Managing the whole landscape: historical, hybrid and novel ecosystems. Frontiers in Ecology and the Environment.
+Hobbs, R. J. and 27 others (including L. M. Hallett). 2014. Managing the whole landscape: historical, hybrid and novel ecosystems. Frontiers in Ecology and the Environment 12(10): 557-564.
 
 Stein, C., L. M. Hallett, W. S. Harpole, K. N. Suding. In press. Evaluating ecosystem services provided by non-native species: An experimental test in California grasslands. PLOS ONE.
 
