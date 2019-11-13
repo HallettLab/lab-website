@@ -1,6 +1,6 @@
 ---
 title: Eastern Oregon rangelands
-date: 2019-11-13
+date: 2017-12-06
 
 
 ---
