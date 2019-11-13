@@ -14,7 +14,7 @@ date: 2017-03-20
 2014 B.S. in Environmental Science, University of Oregon
 
 ### Research Interests
-My current research interests are in combining the study of population ecology with GIS mapping and spatial analysis to inform the management of freshwater ecosystems. In my graduate research project, I am studying populations of the freshwater mussel _Margaritifera falcata_ (western pearlshell) in the South Umpqua Basin, Oregon. 
+I am interested in how field research is implemented and applied to manage populations with the ultimate goal of preserving ecosystem functioning. More specifically, I am interested in how to combine the study of population ecology with GIS mapping and spatial analysis to inform the management of freshwater ecosystems. In my graduate research project, I am studying populations of the freshwater mussel _Margaritifera falcata_ (western pearlshell) in the South Umpqua Basin, Oregon.
 ### Awards
 2018:  Northwest Ecological Research Institute's Brenda McGowan Grant
 <hr>2018:  University of Oregon's David S. Easly Memorial Award
