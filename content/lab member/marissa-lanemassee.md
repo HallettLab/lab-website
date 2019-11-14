@@ -6,7 +6,7 @@ date: 2017-03-18
 ---
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/marissa_lanemassee.png" alt="Justin Day">}}
+  {{< figure thumb="_tn" src="/img/headshots/marissa_lanemassee.png" alt="Marissa Lane-Massee">}}
 {{< /gallery >}}
 
 <!--more-->
