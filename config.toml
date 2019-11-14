@@ -52,10 +52,22 @@ pygmentsCodefencesGuessSyntax = true
 
 
  [[menu.main]]
+    identifier = "People"
     name = "People"
+    weight = 2
+
+[[menu.main]]
+    parent = "People"
+    name = "Current"
     url = "/lab member/"
     weight = 1
-
+    
+[[menu.main]]
+    parent = "People"
+    name = "Alumni"
+    url = "/past lab member/"
+    weight = 2
+    
 [[menu.main]]
     identifier = "Research"
     name = "Research"
