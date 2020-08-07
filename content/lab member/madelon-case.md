@@ -1,5 +1,5 @@
 ---
-title: "Madelon Case"
+title: "Madelon (Maddy) Case"
 subtitle: Postdoc 
 date: '2017-04-21'
 ---
