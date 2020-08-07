@@ -1,12 +1,12 @@
 ---
 title: "Madelon Case"
 subtitle: Postdoc 
-date: '2017-04-23'
+date: '2017-04-21'
 ---
 
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/ashley-shaw.jpg" alt="Ashley Shaw">}}
+  {{< figure thumb="_tn" src="/img/headshots/madelon_case.jpg" alt="Madelon Case">}}
 {{< /gallery >}} 
 
 <!--more-->
