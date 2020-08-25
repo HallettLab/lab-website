@@ -14,7 +14,7 @@ Alejandro, Lina, Paul, Eliza, Cal, and Lauren headed out to Bunchgrass and Looko
 {{< gallery caption-effect="fade" >}}
 
   {{< figure thumb="_tn" src="/img/Labnews_2020/MaskedFieldwork.jpg" caption="Masked fieldwork" alt="Staying safe wearing masks while in the field" >}}
-  {{< figure thumb="_tn" src="/img/Labnews_2020/MeadowWildflowers.jpg" caption="Meadow wildflowers" alt="July wildflowers in HJ Andrew meadows" >}}
+  {{< figure thumb="_tn" src="/img/Labnews_2020/MeadowWildflowers.jpg" caption="Meadow wildflowers" alt="July wildflowers in HJ Andrews meadows" >}}
     {{< figure thumb="_tn" src="/img/Labnews_2020/NutNetBearGrass.jpg" caption="NutNet sampling" alt="Conducting NutNet sampling among the beargrass" >}}
 {{< /gallery >}}
 
