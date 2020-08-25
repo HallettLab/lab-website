@@ -19,8 +19,8 @@ date: '2017-04-21'
 My research is driven by curiosity about 1) the biological patterns and processes shaping ecological communities and their functions, and 2) the relationship of communities and their biotic and abiotic drivers to global changes.  
 
 ### Awards
-2020 USDA NIFA Postdoctoral Fellowship
-2018 National Science Foundation Travel Award  
+2020 USDA NIFA Postdoctoral Fellowship  
+2018 National Science Foundation Travel Award   
 2017 _Antarctic Science_ International Bursary  
 
 ### Recent Publications
