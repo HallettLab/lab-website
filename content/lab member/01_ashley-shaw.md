@@ -18,15 +18,15 @@ date: '2017-04-21'
 ### Research Interests
 My research is driven by curiosity about 1) the biological patterns and processes shaping ecological communities and their functions, and 2) the relationship of communities and their biotic and abiotic drivers to global changes.  
 
-### Awards
+### Recent Awards
 2020 USDA NIFA Postdoctoral Fellowship  
 2018 National Science Foundation Travel Award   
 2017 _Antarctic Science_ International Bursary  
 
 ### Recent Publications
-Ankrom, KE, ALC Franco, SJ Fonte, LC Gherardi, CM de Tomasel, WS Andriuzzi, EA Shaw, OE Sala, and DH Wall. 2020. Ecto- and endoparasitic nematodes differ in response to precipitation in semiarid, but not in arid or mesic grasslands. _Oecologia_. 
+Ankrom, KE, ALC Franco, SJ Fonte, LC Gherardi, CM de Tomasel, WS Andriuzzi, EA Shaw, OE Sala, and DH Wall. 2020. Ecto- and endoparasitic nematodes differ in response to precipitation in semiarid, but not in arid or mesic grasslands. _Oecologia_. https://doi.org/10.1007/s00442-020-04708-7
 
-Shaw, EA and DH Wall. Biotic interactions in experimental Antarctic soil microcosms vary with abiotic stress. 2019. _Soil Systems_.
+Shaw, EA and DH Wall. Biotic interactions in experimental Antarctic soil microcosms vary with abiotic stress. 2019. _Soil Systems_. https://doi.org/10.3390/soilsystems3030057
 
 Franco, ALC, LC Gherardi, CM de Tomasel, WS Andriuzzi, KE Ankrom, EA Shaw, EM Bach, OE Sala, and DH Wall. 2019. Drought suppresses soil predators and promotes root herbivores in mesic, but not in xeric grasslands. _PNAS_. https://doi.org/10.1073/pnas.1900572116
 
