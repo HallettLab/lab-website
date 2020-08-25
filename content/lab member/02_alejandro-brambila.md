@@ -6,7 +6,7 @@ date: '2017-04-20'
 
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/alejandro_brambila.jpg" alt="Alejandro Brambila">}}
+  {{< figure thumb="_tn" src="/img/alejandro/IMG_0919.jpeg" alt="Alejandro Brambila">}}
 {{< /gallery >}} 
 
 <!--more-->
@@ -16,10 +16,11 @@ date: '2017-04-20'
 2014 Research Internship - University of Buenos Aires, Argentina  
 
 ### Research Interests
-I am interested in the effect of anthropogenically driven processes including climate change, agriculture and urbanization on plant community composition and trajetories.  
+I am interested in the effect of anthropogenically driven processes including climate change, agriculture and urbanization on plant community composition and functioning.  
 
 ### Awards
-2017 California Native Plant Society Sally Casey Shooting Stars Graduate Research Scholarship  
+2019 NSF GRFP Fellowship
+2017 CNPS Sally Casey Shooting Stars Graduate Research Scholarship  
 2017 University of Oregon Promising Scholars Award  
 2014 Environment Argentina Conference; Best Environmental Policy Poster   
 
