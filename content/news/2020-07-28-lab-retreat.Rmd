@@ -1,0 +1,14 @@
+---
+title: "2020-07-28-lab_retreat"
+author: "Lina Aoyama"
+date: "August 25, 2020"
+output: html_document
+---
+#### July 28-29, 2020
+We had a summer lab retreat on July 28-29. We workshopped our papers over zoom in the mornings - those were very productive mornings! We then wrapped up our retreat kayaking in Fern Ridge Reservior. We enjoyed each other's company (6-feet apart, of course) and the warm sun. Laura helped us identify some bird species, too.
+
+<image src="/img/Labnews_2020/fernridge1.jpg" caption="Ready set go!">
+
+<image src="/img/Labnews_2020/FernRidge2.jpg" caption="Our awesome leader">
+
+<image src="/img/Labnews_2020/fernridge3.jpg" caption="Soaking up the Oregon sun!">
