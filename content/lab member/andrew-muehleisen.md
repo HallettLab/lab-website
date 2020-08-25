@@ -20,9 +20,9 @@ date: '2020-08-25'
 I am broadly interested in plant adaptation to environmental stresses and associated consequences for biodiversity and coexistence. Once in forests, now in grasslands. 
 
 ### Recent Awards
-2018 Tropical Resources Institute Endowment Fellowship, Yale University	     
-2018 Conference Travel Fellowship, Yale University	
-2015 Doctoral Pilot Grant, Yale Institute for Biospheric Sciences	                                                 
+2018 Tropical Resources Institute Endowment Fellowship, Yale University
+2018 Conference Travel Fellowship, Yale University
+2015 Doctoral Pilot Grant, Yale Institute for Biospheric Sciences
 
 ### Publications
 Muehleisen, A. J., Schwartz, N. B., Stump, S. M., Staver, A. C. 2020. Deciduous-evergreen coexistence in tropical forests. *In Review*. Journal of Ecology.   
