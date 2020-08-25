@@ -25,9 +25,10 @@ I am interested in the effect of anthropogenically driven processes including cl
 2014 Environment Argentina Conference; Best Environmental Policy Poster   
 
 ### Publications
+
+
 Brambila, A., and P. Flombaum. “Comparison of Environmental Indicator Sets Using a Unified Indicator Classification Framework.” Ecological Indicators 83 (2017). https://doi.org/10.1016/j.ecolind.2017.07.023.  
 
 ### Contact
 email: abrambil@uoregon.edu  
 phone: (408) 597-2891  
-office: 287 Onyx Bridge  
