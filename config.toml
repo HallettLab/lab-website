@@ -108,6 +108,13 @@ paginate = 12
     url = "contact"
     weight = 5
     
+        
+#  [[menu.main]]
+#    name = "Hiring!"
+#    url = "hiring"
+#    weight = 6
+    
+    
 #[[menu.main]]
 #    name = "Tags"
 #    url = "tags"

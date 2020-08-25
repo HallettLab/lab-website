@@ -10,6 +10,15 @@ bigimg: [{src: "/img/layia.jpg", desc: "Layia"}]
 <br/>
 <br/>
 
+Aoyama, L., J. Bartolome, L. M. Hallett. Managing biodiversity on heterogeneous landscapes using Ecological Site Descriptions. In press, Rangelands.
+
+Zhao, L, S. Wang, L. M. Hallett, A. Rypel, L. Sheppard, M. C. N. Castorani, L. G. Shoemaker, K. L. Cottingham, K. N. Suding, D. C. Reuman. A new variance ratio metric to detect the timescale of compensatory dynamics. In press, Ecosphere.
+
+Brambila, A., J. W. Chestnut, L. R. Prugh, L. M. Hallett. Herbivory enhances the effect of environmental variability on plant community composition and beta-diversity. In press, Journal of Vegetation Science. (Invited paper for special issue)
+
+Avolio, M. L., I. T. Carroll, S. L. Collins, G. Houseman, L. M. Hallett, F. Isbell, S. E. Koerner, K. J. La Pierre, M. D. Smith, K. R. Wilcox. 2019. A comprehensive approach to analyzing community dynamics using rank abundance curves. Ecosphere 10(10): e02881.
+
+Komatsu, K. J, M. L. Avolio and others (including L. M. Hallett). 2019. Global changes systematically shift plant communities without driving local species loss. PNAS 116(36): 17867-17873.
 
 Hallett, L. M., L. G. Shoemaker, C. T. White, K. N. Suding. Rainfall variability maintains grass-forb coexistence. In press, Ecology Letters.
 

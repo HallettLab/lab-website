@@ -18,17 +18,19 @@ date: '2017-04-21'
 ### Research Interests
 My research is driven by curiosity about 1) the biological patterns and processes shaping ecological communities and their functions, and 2) the relationship of communities and their biotic and abiotic drivers to global changes.  
 
-### Awards
-2018 National Science Foundation Travel Award  
+### Recent Awards
+2020 USDA NIFA Postdoctoral Fellowship  
+2018 National Science Foundation Travel Award   
 2017 _Antarctic Science_ International Bursary  
-2013 Runner-up, Best Student Paper Competition, Society of Nematologists  
 
 ### Recent Publications
-Shaw, EA, BJ Adams, JE Barrett, WB Lyons, RA Virginia, DH Wall. 2018. Stable C and N isotope ratios reveal soil food web structure and identify the nematode Eudorylaimus antarcticus as an omnivore-predator in Taylor Valley, Antarctica. Polar Biology. https://doi.org/10.1007/s00300-017-2243-8  
+Ankrom, KE, ALC Franco, SJ Fonte, LC Gherardi, CM de Tomasel, WS Andriuzzi, EA Shaw, OE Sala, and DH Wall. 2020. Ecto- and endoparasitic nematodes differ in response to precipitation in semiarid, but not in arid or mesic grasslands. _Oecologia_. https://doi.org/10.1007/s00442-020-04708-7
 
-García-Palacios, P, EA Shaw, DH Wall, S Hättenschwiler. 2017. Contrasting mass-ratio vs. niche complementarity effects on litter C and N loss during decomposition along a regional climatic gradient. Journal of Ecology. 105: 968–978. doi:10.1111/1365-2745.12730  
+Shaw, EA and DH Wall. Biotic interactions in experimental Antarctic soil microcosms vary with abiotic stress. 2019. _Soil Systems_. https://doi.org/10.3390/soilsystems3030057
 
-Shaw, EA, K Denef, C Milano de Tomasel, MF Cotrufo, and DH Wall. 2016. Fire affects root decomposition, soil food web structure and carbon flow in tallgrass prairie. SOIL. DOI: 10.5194/soil-2-199-2016  
+Franco, ALC, LC Gherardi, CM de Tomasel, WS Andriuzzi, KE Ankrom, EA Shaw, EM Bach, OE Sala, and DH Wall. 2019. Drought suppresses soil predators and promotes root herbivores in mesic, but not in xeric grasslands. _PNAS_. https://doi.org/10.1073/pnas.1900572116
+
+Shaw, EA, CM Boot, JM Moore, DH Wall, and J Baron. 2019. Nitrogen addition affects the soil nematode community structure and maturity in a subalpine forest. _Soil Biology and Biochemistry_. 130: 177-184. https://doi.org/10.1016/j.soilbio.2018.12.007
 
 ### Contact
 ashleysh@uoregon.edu
