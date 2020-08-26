@@ -19,5 +19,5 @@ Carmen joins us from the University of Minnesota where she researched plant comm
 Gabby joins us from Purdue University where she was research technician in entomology and recently completed her bachelors in Biology at Ursinus College.  Welcome Gabby!  
 
 
-
+<!--more-->
 
