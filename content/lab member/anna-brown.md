@@ -1,7 +1,7 @@
 ---
 title: Anna Brown
 subtitle: Undergraduate researcher
-date: 2017-03-18
+date: 2017-03-17
 
 ---
 

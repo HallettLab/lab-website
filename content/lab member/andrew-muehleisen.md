@@ -1,7 +1,7 @@
 ---
 title: "Andrew Muehleisen"
 subtitle: Postdoc 
-date: '2020-08-25'
+date: '2017-04-21'
 ---
 
 {{< gallery >}}
@@ -27,7 +27,7 @@ I am broadly interested in plant adaptation to environmental stresses and associ
 ### Publications
 Muehleisen, A. J., Schwartz, N. B., Stump, S. M., Staver, A. C. 2020. Deciduous-evergreen coexistence in tropical forests. *In Review*. Journal of Ecology.   
 
-Muehleisen, A. J., Engelbrecht, B., Jones, F.A., Manzané-Pinzón, E., & Comita, L. (2020). Local adaptation to herbivory within tropical tree species along a rainfall gradient. Accepted. Ecology. 
+Muehleisen, A. J., Engelbrecht, B., Jones, F.A., Manzan?-Pinz?n, E., & Comita, L. (2020). Local adaptation to herbivory within tropical tree species along a rainfall gradient. Accepted. Ecology. 
 
 Muehleisen, A. J., Queenborough, S. A., Alvia, P., Valencia, R., & Fiala, B. 2016. Incidence of Extrafloral Nectaries and Their Relationship with Growth and Survival of Lowland Tropical Rain Forest Trees. Biotropica, 48(3), 321-331.
 
