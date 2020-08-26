@@ -2,7 +2,7 @@
 title: 'LTER synchrony webinar'
 author: ''
 date: '2018-06-11'
-slug: LTER synchrony webinar
+slug: LTER-synchrony-webinar
 categories: []
 tags: []
 subtitle: ''

@@ -6,7 +6,7 @@ date: '2017-04-01'
 
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="" alt="Carmen Ebel">}}
+  {{< figure thumb="_tn" src="/img/headshots/carmen_ebel.jpg" alt="Carmen Ebel">}}
 {{< /gallery >}} 
 
 <!--more-->

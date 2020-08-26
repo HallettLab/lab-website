@@ -12,7 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
-paginate = 12
+paginate = 14
 
 [Params]
   subtitle = "Restoration and community ecology"
