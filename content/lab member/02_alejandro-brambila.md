@@ -25,7 +25,7 @@ I am interested in the effect of anthropogenically driven processes including cl
 2014 Environment Argentina Conference; Best Environmental Policy Poster   
 
 ### Publications
-Brambila, A., J. W. Chestnut, L. R. Prugh, L. M. Hallett. Herbivory enhances the effect of environmental variability on plant community composition and beta-diversity. In press, Journal of Vegetation Science. (Invited paper for special issue) Journal of Vegetation Science (2020) https://doi.org/10.1111/jvs.12862
+
 
 Brambila, A., and P. Flombaum. “Comparison of Environmental Indicator Sets Using a Unified Indicator Classification Framework.” Ecological Indicators 83 (2017). https://doi.org/10.1016/j.ecolind.2017.07.023.  
 
