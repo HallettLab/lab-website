@@ -16,7 +16,7 @@ date: '2017-05-22'
 2010 Bellarmine University _BA_ in Biology  
 
 ### Research Interests
-My research is driven by curiosity about 1) the biological patterns and processes shaping ecological communities and their functions, and 2) the relationship of communities and their biotic and abiotic drivers to global changes.  
+I am interested in how ecosystems and their functions respond to management under global changes, and in particular, the role that soil and plant communities play in regulating ecosystem resilience. 
 
 ### Recent Awards
 2020 USDA NIFA Postdoctoral Fellowship  
