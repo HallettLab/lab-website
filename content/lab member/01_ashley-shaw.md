@@ -16,7 +16,7 @@ date: '2017-05-22'
 2010 Bellarmine University _BA_ in Biology  
 
 ### Research Interests
-I am interested in how ecosystems and their functions respond to management under global changes, and in particular, the role that soil and plant communities play in regulating ecosystem resilience. 
+I am interested in how ecosystems and their functions respond to management under global changes, and in particular, the role that soil and plant communities play in regulating ecosystem resilience.  
 
 ### Recent Awards
 2020 USDA NIFA Postdoctoral Fellowship  
@@ -33,5 +33,5 @@ Franco, ALC, LC Gherardi, CM de Tomasel, WS Andriuzzi, KE Ankrom, EA Shaw, EM Ba
 Shaw, EA, CM Boot, JM Moore, DH Wall, and J Baron. 2019. Nitrogen addition affects the soil nematode community structure and maturity in a subalpine forest. _Soil Biology and Biochemistry_. 130: 177-184. https://doi.org/10.1016/j.soilbio.2018.12.007
 
 ### Contact
-ashleysh@uoregon.edu
+ashleysh@uoregon.edu  
 [website](https://ashleyshaw.netlify.app)
