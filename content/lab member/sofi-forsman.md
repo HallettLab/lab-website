@@ -1,7 +1,7 @@
 ---
 title: Sofi Forsman
 subtitle: Undergraduate researcher
-date: 2017-03-19
+date: 2017-03-17
 
 ---
 
