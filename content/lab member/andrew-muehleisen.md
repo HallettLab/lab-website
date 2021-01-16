@@ -5,7 +5,7 @@ date: '2017-04-21'
 ---
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/andrew_muehleisen.jpg" alt="Andrew Muehleisen">}}
+  {{< figure thumb="_tn" src="/img/headshots/andrew_muehleisen.JPG" alt="Andrew Muehleisen">}}
 {{< /gallery >}} 
 
 <!--more-->

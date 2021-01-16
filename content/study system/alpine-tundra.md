@@ -7,7 +7,7 @@ date: 2017-08-07
 
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="_tn" src="/img/niwotsampling.jpg" caption="Niwot meadows" alt="Sampling in Niwot meadows">}}
-  {{< figure thumb="_tn" src="/img/niwotearly.jpg" caption="Niwot saddle" alt="Early season flowers at Niwot" >}}
+  {{< figure thumb="_tn" src="/img/niwotearly.JPG" caption="Niwot saddle" alt="Early season flowers at Niwot" >}}
   {{< figure thumb="_tn" src="/img/janearikaree.jpg" caption="Arikaree" alt="Jane taking a deserved break at 13k ft" >}}
 {{< /gallery >}}
 

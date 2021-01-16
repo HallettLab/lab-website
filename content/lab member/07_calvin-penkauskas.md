@@ -6,7 +6,7 @@ date: 2017-03-15
 ---
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/calvin_penkauskas.jpg" alt="Calvin Penkauskas">}}
+  {{< figure thumb="_tn" src="/img/headshots/calvin_penkauskas.JPG" alt="Calvin Penkauskas">}}
 {{< /gallery >}}
 
 <!--more-->

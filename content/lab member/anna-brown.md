@@ -6,7 +6,7 @@ date: 2017-03-17
 ---
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/anna_brown.jpg" alt="Anna Brown">}}
+  {{< figure thumb="_tn" src="/img/headshots/anna_brown.JPG" alt="Anna Brown">}}
 {{< /gallery >}}
 
 <!--more-->
