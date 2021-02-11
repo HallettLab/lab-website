@@ -14,14 +14,14 @@ Field technicians will travel throughout the northern Great Basin region as a cr
 - Valid driver’s license, clean driving record, and comfort driving 4x4 vehicles on rough roads (must be able to qualify to drive a UO motorpool vehicle)
 - Demonstrated interest in botany and plant identification
 - Familiarity with working or living in rugged field conditions
-- At least 2 years of college-level coursework in ecology, botany, environmental science, or a related field (or equivalent training and experience)
+- At least 2 years of college-level coursework in ecology, botany, environmental science, range science, or a related field (or equivalent training and experience)
 
 ### Desired qualifications:
 - Familiarity with Great Basin flora
 - Wilderness first aid or first responder certification
-- Bachelor’s degree in in ecology, botany, environmental science, or a related field (or equivalent training and experience)
+- Bachelor’s degree in in ecology, botany, environmental science, range science, or a related field (or equivalent training and experience)
 
 ### To apply:
-Review of applications will begin on **February 24, 2021**. Interested applicants should send a CV, cover letter, and the names of two references to mcase@uoregon.edu. Please include your last name and position (technician) in the subject line. The positions will remain open until full. Salary will be commensurate with experience. Questions can be directed to Maddy Case (mcase@uoregon.edu) and details on the position and lab can be found at https://hallettlab.netlify.com/hiring/.
+Review of applications will begin on **February 24, 2021**. Interested applicants should send a CV, cover letter, and the names of two references to mcase@uoregon.edu. Please include your last name and position (technician) in the subject line. The positions will remain open until filled. Salary will be commensurate with experience. Questions can be directed to Maddy Case (mcase@uoregon.edu) and details on the position and lab can be found at https://hallettlab.netlify.com/hiring/.
 
 The University of Oregon is an equal opportunity, affirmative action institution committed to cultural diversity and compliance with the ADA. The University encourages all qualified individuals to apply and does not discriminate on the basis of any protected status, including veteran and disability status. The University is committed to providing reasonable accommodations to applicants and employees with disabilities. UO prohibits discrimination on the basis of race, color, sex, national or ethnic origin, age, religion, marital status, disability, veteran status, sexual orientation, gender identity, and gender expression in all programs, activities and employment practices as required by Title IX, other applicable laws, and policies.
