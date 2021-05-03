@@ -1,7 +1,7 @@
 ---
 title: Chhaya Werner
 subtitle: Postdoc
-date: 2017-04-20
+date: '2017-04-20'
 
 ---
 
