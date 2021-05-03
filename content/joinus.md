@@ -1,27 +1,21 @@
 ---
-title: Hiring
+title: Join Us!
 comments: false
 ---
 
 
-##  Northern Great Basin Research Technicians 
+## Opportunities for undergraduates
+We are always excited to welcome undergraduates to the lab! We tend to have undergrads start working with us at the beginning of each quarter, and will post opportunities here for any specific opportunities for undergrad assistants on lab projects. If you are interested in working with us, contact Lauren (hallett@uoregon.edu) with a brief description of your research interests. Check out our "people" and "research" pages to get a sense of ongoing projects and what current undergrads are doing.
 
-We are seeking applicants for six paid field technician positions to join a project assessing resilience of perennial rangelands to exotic annual grass invasion in the northern Great Basin. This project is a collaboration between scientists from the University of Oregon and the Eastern Oregon Agricultural Research Center. Technicians will be expected to establish vegetation transects, measure vegetation cover and density by species, record site characteristics, and collect soil samples, at sites located throughout the northern Great Basin (southeastern Oregon, southern Idaho, and northern Nevada). The position will run for approximately 2.5 months, from the beginning of May 2021 until mid July 2021.
+Opportunities range from participating in others' research to gain experience, to eventually conducting your own independent project. We especially encourage getting involved in the lab early in your college career! We supervise a couple of senior theses each year, and prioritize students who have previously worked with us. Past undergrads have been very successful in winning funding for independent research such as UROP grants.
 
-Field technicians will travel throughout the northern Great Basin region as a crew, with sampling conducted in two-person teams. Working schedule will likely consist of eight 10-hour days on at a time, six days off. During work periods we will camp at public campgrounds and remote field sites. Shared housing will be provided for days off. Candidates must be comfortable working for long hours in rugged terrain and challenging weather conditions, navigating off-trail, and carrying heavy backpacks (up to 50 pounds). We are committed to creating a safe and respectful working environment for all crew members. We have a robust COVID-19 safety plan and will expect that all crew members are willing to comply with it.
 
-### Required qualifications:
-- Valid driver’s license, clean driving record, and comfort driving 4x4 vehicles on rough roads (must be able to qualify to drive a UO motorpool vehicle)
-- Demonstrated interest in botany and plant identification
-- Familiarity with working or living in rugged field conditions
-- At least 2 years of college-level coursework in ecology, botany, environmental science, range science, or a related field (or equivalent training and experience)
+## Opportunities for graduate students
+The Hallett lab admits PhD students through the ENVS and Biology programs. If you are interested in joining the lab as a graduate student, contact Lauren with a description of your interests and a CV. Please also mention if you are interested in interacting about applying for external fellowships such as the NSF GRFP. The best time to reach out is August/September of a given year, in advance of the application deadline. 
 
-### Desired qualifications:
-- Familiarity with Great Basin flora
-- Wilderness first aid or first responder certification
-- Bachelor’s degree in in ecology, botany, environmental science, range science, or a related field (or equivalent training and experience)
 
-### To apply:
-Review of applications will begin on **February 24, 2021**. Interested applicants should send a CV, cover letter, and the names of two references to mcase@uoregon.edu. Please include your last name and position (technician) in the subject line. The positions will remain open until filled. Salary will be commensurate with experience. Questions can be directed to Maddy Case (mcase@uoregon.edu) and details on the position and lab can be found at https://hallettlab.netlify.com/hiring/.
+## Opportunities for postdocs
+If you are a prospective postdoc and are interested in the lab's work, please reach out to Lauren to discuss your interests and opportunities for applicable fellowships and grants.
+When there are postdoc opportunities available on existing grants, they will be posted here.
 
-The University of Oregon is an equal opportunity, affirmative action institution committed to cultural diversity and compliance with the ADA. The University encourages all qualified individuals to apply and does not discriminate on the basis of any protected status, including veteran and disability status. The University is committed to providing reasonable accommodations to applicants and employees with disabilities. UO prohibits discrimination on the basis of race, color, sex, national or ethnic origin, age, religion, marital status, disability, veteran status, sexual orientation, gender identity, and gender expression in all programs, activities and employment practices as required by Title IX, other applicable laws, and policies.
+
