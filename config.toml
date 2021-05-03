@@ -101,19 +101,23 @@ paginate = 14
     [[menu.main]]
     name = "News"
     url = "/news/"
-    weight = 5
+    weight = 7
     
   [[menu.main]]
     name = "Contact"
     url = "contact"
-    weight = 5
+    weight = 8
     
         
   [[menu.main]]
-    name = "Hiring!"
-    url = "hiring"
-    weight = 6
-    
+    name = "Join us"
+    url = "joinus"
+    weight = 9
+
+  [[menu.main]]
+    name = "UO SER"
+    url = "ser"
+    weight = 6   
     
 #[[menu.main]]
 #    name = "Tags"
