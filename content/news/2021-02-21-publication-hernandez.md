@@ -12,7 +12,7 @@ Eliza Hernández led a lab group paper on restoring serpentine grasslands that h
 
 {{< gallery caption-effect="fade" >}}
 
-{{< figure thumb="_tn" src="/img/Labnews_2021/paper_hern.png" caption="Restoration Ecology" alt="" >}}
+{{< figure thumb="_tn" src="/img/paper_hern.png" caption="Restoration Ecology" alt="" >}}
 {{< /gallery >}}
 
 
