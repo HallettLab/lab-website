@@ -12,7 +12,7 @@ Marina LaForgia's final dissertation chapter on the effects of grass litter on n
 
 {{< gallery caption-effect="fade" >}}
 
-{{< figure thumb="_tn" src="/img/Labnews_2021/paper_laforgia.png" caption="Restoration Ecology" alt="" >}}
+{{< figure thumb="_tn" src="/img/paper_laforgia.png" caption="Restoration Ecology" alt="" >}}
 {{< /gallery >}}
 
 
