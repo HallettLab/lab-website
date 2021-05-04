@@ -12,7 +12,7 @@ Marina LaForgia's final dissertation chapter on the effects of grass litter on n
 
 {{< gallery caption-effect="fade" >}}
 
-{{< figure thumb="_tn" src="/img/paper_laforgia.png" caption="Invasion Ecology" alt="" >}}
+{{< img src="/img/paper_laforgia.png" caption="Invasion Ecology" alt="" >}}
 {{< /gallery >}}
 
 
