@@ -10,6 +10,8 @@ bigimg: [{src: "/img/layia.jpg", desc: "Layia"}]
 <br/>
 <br/>
 
+_Papers posted for individual use only_
+
 Case, M. F. and L. M. Hallett. Multiple meanings of history in restoration. In press, Restoration Ecology e13411. [pdf](/papers/Case_and_Hallett_2021_Restoration_Ecology13411.pdf)
 
 Davies, K. W., E. A. Leger, C. S. Boyd, L. M. Hallett. 2021. Living with exotic annual grasses in the sagebrush ecosystem., Journal of Environmental Management 288:112417.  [pdf](/papers/Davies_et_al_2021_Journal_of_Environmental_Management.pdf)
