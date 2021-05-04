@@ -28,7 +28,7 @@ Hallett, L. M. and R. J. Hobbs. 2020. Thinking systematically about ecological i
 
 Aoyama, L., J. Bartolome, L. M. Hallett. 2020. Managing biodiversity on heterogeneous landscapes using Ecological Site Descriptions. Rangelands 42(4)93-105. [pdf](/papers/Aoyama_et_al_2020_Rangelands.pdf)
 
-Zhao, L, S. Wang, L. M. Hallett, A. Rypel, L. Sheppard, M. C. N. Castorani, L. G. Shoemaker, K. L. Cottingham, K. N. Suding, D. C. Reuman. 2020. A new variance ratio metric to detect the timescale of compensatory dynamics. Ecosphere 11(5):e03114. [pdf](/papers/Aoyama_et_al_2020_Rangelands.pdf)
+Zhao, L, S. Wang, L. M. Hallett, A. Rypel, L. Sheppard, M. C. N. Castorani, L. G. Shoemaker, K. L. Cottingham, K. N. Suding, D. C. Reuman. 2020. A new variance ratio metric to detect the timescale of compensatory dynamics. Ecosphere 11(5):e03114. [pdf](/papers/Zhao_et_al_2020_Ecosphere.pdf)
 
 Brambila, A., J. W. Chestnut, L. R. Prugh, L. M. Hallett. 2020. Herbivory enhances the effect of environmental variability on plant community composition and beta-diversity. Journal of Vegetation Science 31(5):744-754 (Invited paper for special issue). [pdf](/papers/Brambila_et_al_2020_Journal_of_Vegetation_Science.pdf)
 
