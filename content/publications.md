@@ -54,10 +54,10 @@ Larios, L., L. M. Hallett, K. N. Suding. When and how to restore in a changing w
 
 Shackelford, N. and 16 others (including L. M. Hallett). Connectivity predicts compositional change after discrete disturbances in a global meta-analysis. In press, Ecography. [pdf](/papers/Shackelford_et_al_2017_Isolation predicts_compositional_change.pdf)
 
-Hallett, L. M., D. E. Chapple, M. N. Bickart\*, A. Cherbowsky\*, L. Fernandez\*, C. H. Ho\*, M. Alexander\*, K. Schwab\*, K. N. Suding. 2017. Niche complementarity enhances native plant restoration in an invaded urban landscape. Ecological Restoration 35(2): 148-155. [pdf](/papers/Aoyama_et_al_2020_Rangelands.pdf)
+Hallett, L. M., D. E. Chapple, M. N. Bickart\*, A. Cherbowsky\*, L. Fernandez\*, C. H. Ho\*, M. Alexander\*, K. Schwab\*, K. N. Suding. 2017. Niche complementarity enhances native plant restoration in an invaded urban landscape. Ecological Restoration 35(2): 148-155. [pdf](/papers/Hallett_et_al_2017_Ecological_Restoration.pdf)
 \*undergraduate coauthor
 
-Hallett, L. M., C. Stein and K. N. Suding. 2017. Functional diversity increases ecological stability in a grazed grassland. Oecologia 183(3): 831-840. [pdf](/papers/Hallett_et_al_2017_Ecological_Restoration.pdf)
+Hallett, L. M., C. Stein and K. N. Suding. 2017. Functional diversity increases ecological stability in a grazed grassland. Oecologia 183(3): 831-840. [pdf](/papers/Hallett_et_al_2017_Oecologia.pdf)
 
 Mulhouse, J. M., L. M. Hallett, S. L. Collins. 2017. Long-term forb dynamics in a northern Chihuahuan Desert grassland. Journal of Vegetation Science 28(2): 250-259. [pdf](/papers/Mulhouse_et_al_2016_Journal_of_Vegetation_Science.pdf)
 
