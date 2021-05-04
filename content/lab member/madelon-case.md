@@ -18,6 +18,7 @@ date: '2017-04-22'
 I am interested in how plant community and ecosystem dynamics respond to environmental variability, disturbance, and global change, with a particular focus on rangelands and savannas.
 
 ### Recent Awards
+2021 Highly commended paper for Harper Prize, British Ecological Society  
 2020 Prize Teaching Fellowship, Yale University   
 2019 Robert P. McIntosh Award, ESA Vegetation Section   
 2018 Highly commended paper for Southwood Prize, British Ecological Society   
@@ -26,7 +27,11 @@ I am interested in how plant community and ecosystem dynamics respond to environ
 2016 Research-in-Residence, Inter-University Training for Continental-Scale Ecology
 
 ### Publications
-Case, M.F., Nippert, J.B., Holdo, R.M., and Staver, A.C. Root-niche separation between savanna trees and grasses is greater on sandier soils. Journal of Ecology (in press). 
+Case, M.F. and Hallett, L.M. Multiple meanings of history in restoration. (In press, Restoration Ecology)
+
+Zhou, Y., Tingley, M., Case, M.F., Wigley-Coetsee, C., Kiker, G., Scholtz, R., and Staver, A.C. Woody encroachment happens via intensification, not extensification, of species ranges in an African savanna. (In press, Ecological Applications)
+
+Case, M.F., Nippert, J.B., Holdo, R.M., and Staver, A.C. Root-niche separation between savanna trees and grasses is greater on sandier soils. Journal of Ecology. 108 (6), 2298-2308. 
 
 Zhou, Y., Wigley, B.J., Case, M.F., Coetsee, C., and Staver, A.C. Rooting depth as a key woody functional trait in savannas. New Phytologist. 227(5), 1350-1361. 
 
