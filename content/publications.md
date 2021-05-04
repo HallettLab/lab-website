@@ -52,7 +52,7 @@ Enquist, C. A. F. et al. and 27 others (including L. M. Hallett). 2017. Foundati
 
 Larios, L., L. M. Hallett, K. N. Suding. When and how to restore in a changing world: a demographic-based assessment of resilience. 2017. Journal of Applied Ecology 54(4): 1040–1050  (Invited paper for a special issue). [pdf](/papers/Larios_et_al_2017_Journal_of_Applied_Ecology.pdf)
 
-Shackelford, N. and 16 others (including L. M. Hallett). Connectivity predicts compositional change after discrete disturbances in a global meta-analysis. In press, Ecography. 
+Shackelford, N. and 16 others (including L. M. Hallett). 2017. Isolation predicts compositional change after discrete disturbances in a global meta-analysis. Ecography doi:10.1111/ecog.02383
 
 Hallett, L. M., D. E. Chapple, M. N. Bickart\*, A. Cherbowsky\*, L. Fernandez\*, C. H. Ho\*, M. Alexander\*, K. Schwab\*, K. N. Suding. 2017. Niche complementarity enhances native plant restoration in an invaded urban landscape. Ecological Restoration 35(2): 148-155. [pdf](/papers/Hallett_et_al_2017_Ecological_Restoration.pdf)
 \*undergraduate coauthor
