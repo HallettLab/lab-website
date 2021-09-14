@@ -11,6 +11,20 @@ bigimg: [{src: "/img/layia.jpg", desc: "Layia"}]
 <br/>
 
 _Papers posted for individual use only_
+Penkauskas, C., A. Brambila, D. Donahue, T. Larson, B. Miller, L. M. Hallett. 2021. Hogs and hazelnuts: adaptively managing pest spillover in the agricultural-wildland matrix. Accepted, Agroforestry Systems. (Invited paper for special issue)
+[pdf](/papers/Penkauskas_et_al_2021.pdf)
+
+Seabloom, E. W. and 34 others (including L. M. Hallett). 2021. Species loss due to nutrient addition increases with spatial scale in global grasslands. In press, Ecology Letters.
+[pdf](/papers/Seabloom_2021_EL.pdf)
+
+Walter, J. A., L. G. Shoemaker, N. K. Lany, M. C. N. Castorani, S. B. Fey, J. C. Dudney, L. Gherardi, C. Portales-Reyes, A. L. Rypel, K. L. Cottingham, K. N. Suding, D. C. Reuman, L. M. Hallett. 2021. The spatial synchrony of species richness and its implications for ecosystem stability. In press, Ecology.
+[pdf](/papers/Walter_Ecology_2021.pdf)
+
+de Bello, F., S. Lavorel, L. M. Hallett, E. Valencia, E. Garnier, L. Götzenberger, C. Roscher, L. Conti, T. Galland, M. Goberna, M. Majeková, A. Montesinos, J. Pausas, M. Verdú, A. E. Vojtkó, J. Lepš. 2021. Functional trait effects on ecosystem stability: assembling the jigsaw puzzle. In press, Trends in Ecology and Evolution.
+[pdf](/papers/deBello_TREE_2021.pdf)
+
+Mackin, H., K. L. Shek, T. Thornton, K. Evens, L. M. Hallett, K. L. McGuire, M. L. Peterson, B. A. Roy. 2021. The “black box” of plant demography: How do seed type and climate affect grass seed germination and fungal communities? In press, New Phytologist.
+[pdf](/papers/Mackin_et_al_in_press_New_Phytologist.pdf)
 
 Case, M. F. and L. M. Hallett. Multiple meanings of history in restoration. In press, Restoration Ecology e13411. [pdf](/papers/Case_and_Hallett_2021_Restoration_Ecology13411.pdf)
 
