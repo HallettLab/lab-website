@@ -46,11 +46,11 @@ with "postdoc application - YourLastName"
 2) C.V.  
 3) The names and contact information (email and phone) for 2-3 references  
 
-About the Hallett/Ponisio/Silva Lab’s
-Please see our websites:
-https://hallettlab.netlify.app/
-http://www.ponisiolab.com/
-https://soilplantatmosphere.wordpress.com/
+About the Hallett/Ponisio/Silva Lab’s  
+Please see our websites:  
+https://hallettlab.netlify.app/  
+http://www.ponisiolab.com/  
+https://soilplantatmosphere.wordpress.com/  
 
 Position open until filled, applications are reviewed beginning Nov 1, 2021. Questions can be directed to hallett@uoregon.edu
 
