@@ -42,9 +42,9 @@ How to Apply:
 To apply submit the following to hallett.lab@gmail.com 
 with "postdoc application - YourLastName"
 
-1) Cover letter
-2) C.V.
-3) The names and contact information (email and phone) for 2-3 references
+1) Cover letter  
+2) C.V.  
+3) The names and contact information (email and phone) for 2-3 references  
 
 About the Hallett/Ponisio/Silva Lab’s
 Please see our websites:
