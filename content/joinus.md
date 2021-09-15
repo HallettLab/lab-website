@@ -16,7 +16,7 @@ Research themes of interest:
 - Carbon sequestration  
 - Translational ecology and community-engaged research  
 
-Responsibilities
+Responsibilities  
 The candidate will:
 - Design and conduct research related to one or more of the above themes   
 -	Oversee the management of a multi-person field crew and assist in the mentorship of graduate and undergraduate students  
