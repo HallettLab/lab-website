@@ -10,7 +10,8 @@ bigimg: [{src: "/img/layia.jpg", desc: "Layia"}]
 <br/>
 <br/>
 
-_Papers posted for individual use only_
+_Papers posted for individual use only_  
+
 Penkauskas, C., A. Brambila, D. Donahue, T. Larson, B. Miller, L. M. Hallett. 2021. Hogs and hazelnuts: adaptively managing pest spillover in the agricultural-wildland matrix. Accepted, Agroforestry Systems. (Invited paper for special issue)
 [pdf](/papers/Penkauskas_et_al_2021.pdf)
 
