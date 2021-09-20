@@ -18,7 +18,9 @@ date: '2017-04-19'
 My research goal is to test ecological theories relevant to solving immediate problems in rangeland management and restoration in western U.S. I am broadly interested in plant population and community dynamics, species coexistence, and landscape genetics.
 
 ### Awards
-2020 David S. Easly Memorial Award
+2021 USDA Western SARE Grant  
+2021 USDA NIFA Predoctoral Fellowship 
+2020 David S. Easly Memorial Award  
 2018 Promising Scholar Award  
 2018 Barker Scholarship Award  
 2017 Central Coast Rangeland Coalition Scholarship  
