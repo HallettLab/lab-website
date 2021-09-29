@@ -24,7 +24,9 @@ I am broadly interested in plant responses to climate change and in applying eco
 2018 Donald Wimber Conference Travel Award  
 
 ### Publications
-**Reed, P.B.**, Bridgham, S.D., Pfeifer-Meister, L.E., Peterson, M.L., Johnson, B.R., Roy, B.A., Bailes, G.T., Nelson, A.A., Morris, W.F., and Doak, D.F. 2021. Climate warming threatens the persistence of a community of disturbance-adapted native annual plants. *Ecology*, 0(0), e03464. https://doi.org/10.1002/ecy.3464
+**Reed, P.B.**, Pfeifer-Meister, Roy, B.A., Johnson, B.R., Bailes, G.T., Nelson, A.A., and Bridgham, S.D. Introduced annuals mediate climate-driven community change in Mediterranean prairies of the Pacific Northwest, USA. (In press), *Diversity and Distributions*.  
+
+**Reed, P.B.**, Bridgham, S.D., Pfeifer-Meister, L.E., Peterson, M.L., Johnson, B.R., Roy, B.A., Bailes, G.T., Nelson, A.A., Morris, W.F., and Doak, D.F. Climate warming threatens the persistence of a community of disturbance-adapted native annual plants. *Ecology*, 0(0), e03464. https://doi.org/10.1002/ecy.3464
 
 Peterson, M.L., Bailes, G., Bridgham, S.D., Hendricks, L., Johnson, B.R., Pfeifer-Meister, L., **Reed, P.B.**, Shriver, R., Waddle, E., Wroton, H., Doak, D.F., Roy, B., and Morris, W.F. 2021. Latitudinal gradients in population growth do not reflect demographic responses to climate. *Ecological Applications*, 31(2), e02242. https://doi.org/10.1002/eap.2242
 
