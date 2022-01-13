@@ -3,56 +3,50 @@ title: Join Us!
 comments: false
 ---
 
-## Postdoc position open in the lab! 
-The Hallett Lab at the University of Oregon is seeking applicants for a two-year, USDA-funded postdoc position in diversified agroecology. The project is a close collaboration with the Ponisio and Silva labs at UO, and we are particularly excited about applicants whose interests lie along the interface of soil-plant-pollinator interactions as well as applicants interested in community-engaged science. The project centers on hazelnut orchards and tests the potential for cover crops to provide ecological co-benefits as well as the potential of grazing to reduce pest pressure. There is opportunity to extend the work based on postdoc interest, with potential directions including plant community restoration, pollinator community assembly and movement patterns, integrative pest management, and/or soil health. 
+## Multiple plant ecology technician positions open! 
+The Hallett Lab is seeking to fill three plant ecology field technician positions for Spring and Summer 2022 to assist with plant monitoring, sampling, and sample processing of a large field experiment in the Sierra foothill grasslands of Northern California. This is a full-time seasonal position expected to run from mid-March through mid-September, though start and end dates are flexible. Housing will be provided onsite. We are committed to creating a safe and respectful working environment for all crew members. We have a robust COVID-19 safety plan and will expect that all crew members are willing to comply with it.
 
-The position can begin as soon at Jan 2022 but the start date is flexible. The initial appointment is one year, with potential to extend for a second year. The postdoc will be encouraged to take advantage of opportunities to interact across disciplines (both between our labs and within the Institute of Ecology and Evolution, the Data Science Initiative, and the Environmental Studies Program at UO) and professional development opportunities, which could include training in data science as well as the development of new proposals.
-
-Research themes of interest: 
-- Below to above ground interactions (soil-plants-pollinators)  
-- Prairie and oak woodland restoration  
-- Corridor design (for pollinators and plants)  
-- Integrative pest management   
-- Carbon sequestration  
-- Translational ecology and community-engaged research  
-
-Responsibilities  
-The candidate will:
-- Design and conduct research related to one or more of the above themes   
--	Oversee the management of a multi-person field crew and assist in the mentorship of graduate and undergraduate students  
-- Engage with stakeholders throughout the research process   
--	Lead project data management and analysis  
--	Communicate findings to both scientific and agricultural communities  
-- Be a leader in the laboratory and help to foster an atmosphere of inclusivity, exploration, learning, and constructive feedback  
-
-Required Qualifications
-- Ph.D. in ecology or a related field of study  
-- Strong record of leading first-author publications  
--	Experience with quantitative methods in ecology/evolutionary biology  
--	Commitment to fostering inclusivity and diversity in the sciences  
--	Prior experience supervising undergraduate and/or graduate students  
--	Experience in one or more scripting languages such as R or Python  
-
-Preferred Qualifications:
--	Experience in grower-related extension  
--	Experience working with pollinators, plant restoration and/or soil health  
+- **Dates:** Mid-March 2022 - Mid-September 2022 (flexible start and end dates)
+- **Location:** Sierra Foothill Research and Extension Center, Browns Valley, CA. Onsite housing provided.
+- **Number of Positions:** 3 crew members
+- **Pay:** $15/hour 
+ 
 
 
-How to Apply:
-To apply submit the following to hallett.lab@gmail.com 
-with "postdoc application - YourLastName"
 
-1) Cover letter  
-2) C.V.  
-3) The names and contact information (email and phone) for 2-3 references  
+Duties will involve:
+- Identifying native and invasive plant species
+- Monitoring flowering
+- Collecting and processing seed samples
+- Collecting plant biomass
+- Assessing community composition via cover
+- Inspecting seed viability
+- Prepping biomass for carbon isotope analysis
+  
 
-About the Hallett/Ponisio/Silva Lab’s  
-Please see our websites:  
-https://hallettlab.netlify.app/  
-http://www.ponisiolab.com/  
-https://soilplantatmosphere.wordpress.com/  
+**Required Qualifications**
+- Ability to work outdoors in adverse conditions for long days
+- Demonstrated interest or experience in botany and plant identification
+- Attention to detail and ability to perform repetitive tasks
+- At least 2 years of college-level coursework in ecology, botany, environmental science, biology, or a related field (or equivalent training and experience).
 
-Position open until filled, applications are reviewed beginning Nov 1, 2021. Questions can be directed to hallett@uoregon.edu
+**Desired Qualifications**
+- Familiarity with California grassland flora
+- Work experience outdoors, field work or other
+- Bachelor’s degree in ecology, botany, environmental science, biology, or a related field (or equivalent training and experience).
+  
+
+
+**How to Apply:**
+To apply submit the following to Carmen Ebel, hallett.lab@gmail.com, 
+with subject line: "Seasonal field technician application - YourLastName" by **Feb 5th, 2022**
+
+1) Cover letter (indicate dates available here) 
+2) C.V. or resume (with relevant coursework included)  
+3) The names and contact information (email and phone) for 2 references  
+
+
+Questions can be directed to hallett.lab@gmail.com.
 
 
 ## Opportunities for undergraduates
