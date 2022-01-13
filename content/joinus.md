@@ -6,6 +6,7 @@ comments: false
 ## Multiple plant ecology technician positions open! 
 The Hallett Lab is seeking to fill three plant ecology field technician positions for Spring and Summer 2022 to assist with plant monitoring, sampling, and sample processing of a large field experiment in the Sierra foothill grasslands of Northern California. This is a full-time seasonal position expected to run from mid-March through mid-September, though start and end dates are flexible. Housing will be provided onsite. We are committed to creating a safe and respectful working environment for all crew members. We have a robust COVID-19 safety plan and will expect that all crew members are willing to comply with it.
 
+
 - **Dates:** Mid-March 2022 - Mid-September 2022 (flexible start and end dates)
 - **Location:** Sierra Foothill Research and Extension Center, Browns Valley, CA. Onsite housing provided.
 - **Number of Positions:** 3 crew members
@@ -13,34 +14,36 @@ The Hallett Lab is seeking to fill three plant ecology field technician position
  
 
 
-
 Duties will involve:
 
-- Identifying native and invasive plant species
-
-- Monitoring flowering
-
-- Collecting and processing seed samples
-
-- Collecting plant biomass
-
-- Assessing community composition via cover
-
-- Inspecting seed viability
-
-- Prepping biomass for carbon isotope analysis
+ + Identifying native and invasive plant species
+ + Monitoring flowering
+ + Collecting and processing seed samples
+ + Collecting plant biomass
+ + Assessing community composition via cover
+ + Inspecting seed viability
+ + Prepping biomass for carbon isotope analysis
   
-
+  
+  
+ 
 **Required Qualifications**
-- Ability to work outdoors in adverse conditions for long days
-- Demonstrated interest or experience in botany and plant identification
-- Attention to detail and ability to perform repetitive tasks
-- At least 2 years of college-level coursework in ecology, botany, environmental science, biology, or a related field (or equivalent training and experience).
+
+ + Ability to work outdoors in adverse conditions for long days
+ + Demonstrated interest or experience in botany and plant identification
+ + Attention to detail and ability to perform repetitive tasks
+ + At least 2 years of college-level coursework in ecology, botany, environmental science, biology, or a related field (or equivalent training and experience).
+
+
 
 **Desired Qualifications**
-- Familiarity with California grassland flora
-- Work experience outdoors, field work or other
-- Bachelor’s degree in ecology, botany, environmental science, biology, or a related field (or equivalent training and experience).
+
+ + Familiarity with California grassland flora
+ + Work experience outdoors, field work or other
+ + Bachelor’s degree in ecology, botany, environmental science, biology, or a related field (or equivalent training and experience).
+
+
+
   
 
 
