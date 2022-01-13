@@ -15,12 +15,19 @@ The Hallett Lab is seeking to fill three plant ecology field technician position
 
 
 Duties will involve:
+
 - Identifying native and invasive plant species
+
 - Monitoring flowering
+
 - Collecting and processing seed samples
+
 - Collecting plant biomass
+
 - Assessing community composition via cover
+
 - Inspecting seed viability
+
 - Prepping biomass for carbon isotope analysis
   
 
