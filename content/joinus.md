@@ -41,9 +41,9 @@ Duties will involve:
 To apply submit the following to Carmen Ebel, hallett.lab@gmail.com, 
 with subject line: "Seasonal field technician application - YourLastName" by **Feb 5th, 2022**
 
-1) Cover letter (indicate dates available here) 
-2) C.V. or resume (with relevant coursework included)  
-3) The names and contact information (email and phone) for 2 references  
+1. Cover letter (indicate dates available here) 
+2. C.V. or resume (with relevant coursework included)  
+3. The names and contact information (email and phone) for 2 references  
 
 
 Questions can be directed to hallett.lab@gmail.com.
