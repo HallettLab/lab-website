@@ -6,7 +6,7 @@ date: 2022-01-21
 ---
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/zoey_bailey.JPG" alt="Zoey Bailey">}}
+  {{< figure thumb="_tn" src="/img/headshots/zoey_bailey.jpg" alt="Zoey Bailey">}}
 {{< /gallery >}}
 
 <!--more-->
