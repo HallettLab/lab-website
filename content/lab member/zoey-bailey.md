@@ -1,12 +1,12 @@
 ---
 title: Zoey Bailey
 subtitle: Undergraduate researcher
-date: 2022-01-21
+date: 2017-03-01
 
 ---
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/zoey_bailey.jpg" alt="Zoey Bailey">}}
+  {{< figure thumb="_tn" src="/img/headshots/zoey_bailey.JPG" alt="Zoey Bailey">}}
 {{< /gallery >}}
 
 <!--more-->
