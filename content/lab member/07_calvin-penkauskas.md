@@ -1,6 +1,6 @@
 ---
 title: Calvin Penkauskas
-subtitle: Undergraduate researcher
+subtitle: Masters student
 date: 2017-03-15
 
 ---
@@ -11,7 +11,10 @@ date: 2017-03-15
 
 <!--more-->
 ### Education
-2020 B.S. in Biology and Environmental Studies, University of Oregon (expected)
+2020 B.S. in Biology and Environmental Studies, University of Oregon 
 
 ### About Calvin
-I'm a non-traditional student currently seeking a dual B.S. in Biology and Environmental Science with minors in Landscape Architecture and Geography. I find that I'm a passionate person and am equally so about the environment. I look forward to completing research relating to terrestrial systems in the urban setting; specifically, how native/natural plant communities influence heat islands, species niche development, resiliency, socioeconomic/health determination factors, succession focused applications and climate change mitigation. I hope that one day, urban places won't be so nature-less and ecologically dysfunctional; instead, ecological services may help alleviate these and other inner city, and suburban pressures
+Hello! I’m a M.S. student in the Biology Department at the UO. I research farm-bird diversity in hazelnut orchards and how ecological intensification of agroecosystems can promote habitat conservation in Oregon.
+
+### Publications  
+Penkauskas, C., A. Brambila, D. Donahue, T. Larson, B. Miller, L. M. Hallett. 2021. Hogs and hazelnuts: adaptively managing pest spillover in the agricultural-wildland matrix. Accepted, Agroforestry Systems. (Invited paper for special issue)
