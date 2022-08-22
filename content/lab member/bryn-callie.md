@@ -7,7 +7,7 @@ date: 2017-01-20
 
 {{< gallery >}}
   {{< figure thumb="_tn" src="/img/headshots/bryn_callie.jpg" alt="Bryn Callie">}}
-{{< /gallery >}}
+{{< /gallery >}} 
 
 <!--more-->
 ### Education
