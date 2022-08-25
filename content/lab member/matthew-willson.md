@@ -11,7 +11,7 @@ date: 2017-01-20
 
 <!--more-->
 ### Education  
-Florida State University, BS in Biology 
+Florida State University, BS in Biology   
 
 ### Research Interests
 I am currently on the crew of the "Mega-Competition" experiment in California. 
