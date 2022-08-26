@@ -14,7 +14,4 @@ date: 2017-03-18
 2020 B.A. in Environmental Studies, University of Oregon 
 
 ### About Marissa
-I am an environmental studies major with a biology minor from Keizer, OR. My interests include hiking, backpacking,
-kayaking, and skiing. I was raised as a hazelnut farmer and am working and helping with many of the lab projects involving hazelnuts. 
-
-I am currently working on my MS thesis looking at different types of hazelnut orchard floor management processes across differing ages of orchards and how evapotranspiration rates affect soil moisture retention. I am also working on a agroecology project looking to reintroduce native forbes as an understory community inside of these varying ages of hazelnut orchards to see which forbes can survive best in competition for sunlight, and in relation to the farming practices used on the orchard floors.
+I am an environmental studies master's student from Keizer, OR. I was raised as a hazelnut farmer and am involved with the lab's many hazelnut-oriented projects. I am currently working on my MS thesis investigating native cover crop communities, how they affect soil moisture retention, and the different ways they impact biodiversity in hazelnut orchards. In my free time I love to hike, mushroom hunt, rockhound, and photograph local flora and fungi. 
