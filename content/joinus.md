@@ -4,7 +4,7 @@ comments: false
 ---
 
 ## Opportunities for undergraduates
-We are always excited to welcome undergraduates to the lab! We tend to have undergrads start working with us at the beginning of each quarter, and will post opportunities here for any specific opportunities for undergrad assistants on lab projects. Currently Jazz Dhillon and Carmen Ebel are coordinating incoming undergrad assistance. If you are interested in joining the lab please contact them (jdhillon@uoregon.edu; cebel2@uoregon.edu) with a brief description of your research interests. Check out our "people" and "research" pages to get a sense of ongoing projects and what current undergrads are doing.
+We are always excited to welcome undergraduates to the lab! We tend to have undergrads start working with us at the beginning of each quarter, and will post opportunities here for any specific opportunities for undergrad assistants on lab projects. Currently Jazz Dhillon and Carmen Ebel are coordinating incoming undergrads. If you are interested in joining the lab please contact them (jdhillon@uoregon.edu; cebel2@uoregon.edu) with a brief description of your research interests. Check out our "people" and "research" pages to get a sense of ongoing projects and what current undergrads are doing.
 
 Opportunities range from participating in others' research to gain experience, to eventually conducting your own independent project. We especially encourage getting involved in the lab early in your college career! We supervise a couple of senior theses each year, and prioritize students who have previously worked with us. Past undergrads have been very successful in winning funding for independent research such as UROP grants.
 
