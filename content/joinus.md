@@ -10,7 +10,7 @@ Opportunities range from participating in others' research to gain experience, t
 
 
 ## Opportunities for graduate students
-The Hallett lab admits PhD students through the ENVS and Biology programs. If you are interested in joining the lab as a graduate student, contact Lauren with a description of your interests, a CV,and a writing sample if possible. Please also mention if you are interested in interacting about applying for external fellowships such as the NSF GRFP. The best time to reach out is August/September of a given year, in advance of the application deadline. 
+The Hallett lab admits PhD students through the ENVS and Biology programs. If you are interested in joining the lab as a graduate student, contact Lauren with a description of your interests, a CV, and a writing sample if possible. Please also mention if you are interested in interacting about applying for external fellowships such as the NSF GRFP. The best time to reach out is August/September of a given year, in advance of the application deadline. 
 
 
 ## Opportunities for postdocs
