@@ -1,7 +1,7 @@
 ---
 title: Natalie Kataoka
 subtitle: Undergraduate researcher
-date: 2017-03-20
+date: 2017-03-19
 
 ---
 
