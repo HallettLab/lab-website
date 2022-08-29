@@ -20,7 +20,7 @@ I am interested in how plant community and ecosystem dynamics respond to environ
 ### Recent Awards
 2021 John Spangler Nicholas Prize (Dissertation Award), Yale E&EB Department  
 2021 Highly commended paper for Harper Prize, British Ecological Society  
-2020 Ton Damman Award, ESA Vegetation Section 
+2020 Ton Damman Award, ESA Vegetation Section   
 2020 Prize Teaching Fellowship, Yale University   
 2019 Robert P. McIntosh Award, ESA Vegetation Section   
 2018 Highly commended paper for Southwood Prize, British Ecological Society   
