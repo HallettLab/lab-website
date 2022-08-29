@@ -18,9 +18,9 @@ date: '2017-04-22'
 I am interested in how plant community and ecosystem dynamics respond to environmental variability, disturbance, and global change, with a particular focus on rangelands and savannas.
 
 ### Recent Awards
-2021 John Spangler Nicholas Prize (Dissertation Award), Yale E&EB Department
+2021 John Spangler Nicholas Prize (Dissertation Award), Yale E&EB Department  
 2021 Highly commended paper for Harper Prize, British Ecological Society  
-2020 Ton Damman Award, ESA Vegetation Section
+2020 Ton Damman Award, ESA Vegetation Section 
 2020 Prize Teaching Fellowship, Yale University   
 2019 Robert P. McIntosh Award, ESA Vegetation Section   
 2018 Highly commended paper for Southwood Prize, British Ecological Society   
