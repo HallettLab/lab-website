@@ -1,7 +1,7 @@
 ---
 title: Welcome new members
 author: ''
-date: '2022-08-30'
+date: '2022-08-28'
 slug: congratulations
 categories: []
 tags: []
