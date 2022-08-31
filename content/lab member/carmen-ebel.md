@@ -1,12 +1,12 @@
 ---
-title: "Carmen Ebel"
-subtitle: PhD Student 
+title: "Carmen Watkins"
+subtitle: PhD Candidate 
 date: '2017-04-01'
 ---
 
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/carmen_ebel.jpg" alt="Carmen Ebel">}}
+  {{< figure thumb="_tn" src="/img/headshots/carmen_ebel.jpg" alt="Carmen Watkins">}}
 {{< /gallery >}} 
 
 <!--more-->

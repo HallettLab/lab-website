@@ -1,5 +1,5 @@
 ---
-title: Candidate Ebel!
+title: Candidate Watkins (Ebel)
 author: ''
 date: '2022-04-10'
 slug: congratulations

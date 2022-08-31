@@ -1,6 +1,6 @@
 ---
 title: "Lina Aoyama"
-subtitle: PhD Student
+subtitle: PhD Candidate
 date: '2017-04-19'
 ---
 
