@@ -27,7 +27,7 @@ I am interested in applying ecological theories to rangeland management and rest
 2017 Oren Pollak Memorial Student Research Grant for Grassland Science  
 
 ### Publications
-Aoyama, L., B. Gilbert, N.A. Shackelford, A. Faist, S.K. Collinge, L. Shoemaker, V. Temperton., L.M. Hallett. 2022. Application of modern coexistence theory to rare plant restoration provides early indication of restoration trajectories and management actions. Ecological Applications e2649. https://doi.org/10.1002/eap.2649
+Aoyama, L., Shoemaker, L. G., Gilbert, B., Collinge, S. K., Faist, A. M., Shackelford, N., Temperton, V. M., Barabas, G., Larios, L., Ladouceur, E., Godoy, O., Bowler, C., and Hallett, L. M. 2022. Application of modern coexistence theory to rare plant restoration provides early indication of restoration trajectories and management actions. Ecological Applications e2649. https://doi.org/10.1002/eap.2649
 
 Aoyama, L., Bartolome, J. W., Silva, L., and Silver, W. 2022. Using Ecological Site Descriptions to make ranch-level decisions about where to manage for soil organic carbon. California Agriculture. https://doi.org/10.3733/ca.2022a0007
 
