@@ -8,36 +8,36 @@ The Hallett Lab at the University of Oregon is seeking a lead research technicia
 
 The research project is broadly focused on examining how annual grass invasion and the resilience of perennial vegetation interact with grazing and environmental drivers across the Northern Great Basin. Summer 2023 projects will involve 1) surveying the locations and dimensions of cattle watering holes on public grazing land, for use in a remote sensing study of grazing hotspots, and 2) sampling vegetation plots in areas dominated by different species of exotic annual grasses, for a study of spatial dynamics and heterogeneity. The lead technician will work closely with principal investigators at University of Oregon, Eastern Oregon Agricultural Research Center, and USGS. This is an excellent opportunity for a recent graduate or early-career ecologist seeking leadership experience and the chance to be involved in developing and executing a field research campaign from start to finish.
 
-Duties will include:
-Pre field season:
-•	Conduct literature reviews to inform research design.
-•	Collaborate with supervisors to plan site selection and develop field protocols.
-•	Lead logistical planning for fieldwork: including vehicle arrangements, accommodations, equipment, and safety planning.
-•	Work with supervisors to interview and hire summer field technicians.
-•	Communicate with field crew ahead of the season about expectations.
-During field season:
-•	Lead training and safety orientation for field crew members (with the help of principal investigators).
-•	Coordinate all travel logistics, which will include extended periods of camping with the crew at remote campgrounds.
-•	Lead field research activities to ensure efficient and high-quality data collection. Troubleshoot any unexpected research challenges in communication with supervisors.
-•	Coordinate data management and back-ups in the field.
-•	Protect crew members’ safety and be the first point of contact for any emergencies.
-Post field season:
-•	Lead data entry and data management.
-•	Take care of equipment repair, cleaning, and organization upon return from the field.
+Duties will include:    
+Pre field season:   
+•	Conduct literature reviews to inform research design.   
+•	Collaborate with supervisors to plan site selection and develop field protocols.    
+•	Lead logistical planning for fieldwork: including vehicle arrangements, accommodations, equipment, and safety planning.   
+•	Work with supervisors to interview and hire summer field technicians.   
+•	Communicate with field crew ahead of the season about expectations.   
+During field season:    
+•	Lead training and safety orientation for field crew members (with the help of principal investigators).   
+•	Coordinate all travel logistics, which will include extended periods of camping with the crew at remote campgrounds.    
+•	Lead field research activities to ensure efficient and high-quality data collection. Troubleshoot any unexpected research challenges in communication with supervisors.   
+•	Coordinate data management and back-ups in the field.   
+•	Protect crew members’ safety and be the first point of contact for any emergencies.    
+Post field season:    
+•	Lead data entry and data management.    
+•	Take care of equipment repair, cleaning, and organization upon return from the field.    
 
-Required qualifications:
-•	Bachelor’s degree in ecology, botany, range management, natural resource management, environmental science, or other related field, or equivalent experience.
-•	Enthusiasm for rangeland ecology, and comfort working in remote dryland environments.
-•	Experience conducting field research, especially any research that required plant identification skills.
-•	Excellent organizational and leadership skills.
-•	Commitment to creating a safe, respectful working environment.
+Required qualifications:    
+•	Bachelor’s degree in ecology, botany, range management, natural resource management, environmental science, or other related field, or equivalent experience.   
+•	Enthusiasm for rangeland ecology, and comfort working in remote dryland environments.   
+•	Experience conducting field research, especially any research that required plant identification skills.    
+•	Excellent organizational and leadership skills.   
+•	Commitment to creating a safe, respectful working environment.    
 
-We also value prior experience in the following, but will welcome anyone who is excited to learn on the job:
-•	Working with data in ArcGIS or R.
-•	Scientific literature reviews.
-•	Wilderness first aid (we will sponsor a wilderness first aid certification for a candidate who does not already have this training).
-•	Driving 4-wheel-drive vehicles on rough roads.
-•	Prior working experience in the Great Basin.
+We also value prior experience in the following, but will welcome anyone who is excited to learn on the job:    
+•	Working with data in ArcGIS or R.   
+•	Scientific literature reviews.    
+•	Wilderness first aid (we will sponsor a wilderness first aid certification for a candidate who does not already have this training).   
+•	Driving 4-wheel-drive vehicles on rough roads.    
+•	Prior working experience in the Great Basin.    
 
 Compensation: $36,000 per year plus full benefits from the University of Oregon. Housing provided during the field season. One year contract with potential to renew for another year.
 
