@@ -3,30 +3,39 @@ title: Join Us!
 comments: false
 ---
 
-## NOW HIRING - Northern Great Basin Research Technicians
+## NOW HIRING - Postdoc in community ecology
 
-The Hallett Lab at the University of Oregon is seeking applicants for three to five paid field technician positions to join a project assessing resilience of perennial rangelands to exotic annual grass invasion in the northern Great Basin. This project is a collaboration between scientists from the University of Oregon, USGS Forest and Rangeland Ecosystem Science Center, and the Eastern Oregon Agricultural Research Center. Technicians will be expected to establish vegetation transects, measure vegetation cover and density by species, record site characteristics, and collect soil samples at sites located throughout southeastern Oregon. The position will run for approximately 2.5 months, from mid-May through July 2023.
+The Hallett Lab in the Biology Department and Environmental Studies Program at the University of Oregon is seeking applications for a two-year postdoctoral position in community ecology. Our lab broadly focuses on empirically testing ecological theory with an eye toward ecosystem restoration and management. The position will be part of an NSF-funded project investigating the role of climate variability, nutrient enrichment, and grazing on plant species coexistence. The start date is flexible, though preference will be given to candidates available to start in fall 2023.
 
-Field technicians will travel throughout the northern Great Basin region as a crew, with sampling conducted in two-person teams. The work schedule will likely consist of eight 10-hour days in a row followed by six days off. During work periods, we will camp at public campgrounds and remote field sites. Shared housing will be provided for days off in Burns, OR. Candidates must be comfortable working for long hours in rugged terrain and challenging weather conditions, navigating off-trail, and carrying heavy backpacks (up to 50 pounds). We are committed to creating a safe and respectful working environment for all crew members. 
+The postdoc will empirically test how resource availability and variability shapes the mechanisms that maintain species coexistence, and how this is moderated by grazing. This project will leverage large-scale, existing experimental infrastructure and utilize on-site labor support at the Sierra Foothills Research and Extension Center in Browns Valley, CA. There is opportunity for the postdoc to develop this and other projects using multiple potential methods, such as model development, field experiments, and analysis of pre-existing datasets, depending on their interest and areas of expertise. The position allows for multiple professional development opportunities, such as contributing to data synthesis collaborations, guest teaching in Environmental Data Science and Environmental Studies, and mentoring undergraduate and graduate students.  
 
-### Required qualifications:
-- Valid driver’s license, clean driving record, and comfort driving 4x4 vehicles on rough roads (must be able to qualify to drive a UO motorpool vehicle)
-- Demonstrated interest in botany and plant identification
-- Familiarity with working or living in rugged field conditions
-- At least 2 years of college-level coursework in ecology, botany, environmental science, or a related field (or equivalent training and experience)
+Our lab is dedicated to creating an inclusive and equitable environment where all members feel physically and emotionally safe and supported. The successful candidate will be expected to contribute to a collaborative, mutually supportive working environment. 
 
-### Desired qualifications:
-- Familiarity with Great Basin flora
-- Wilderness first aid or first responder certification
-- Bachelor’s degree in in ecology, botany, environmental science, or a related field (or equivalent training and experience)
+To apply, please submit a cover letter, CV, links to 1-2 first-authored publications, and the names and contact information for three professional references to hallett.lab@gmail.com. 
 
-### Compensation:  
-$18/hour + housing
+Applicants will be accepted through June 26. The position is funded for at least two years. It provides a competitive benefits package, including high-quality health insurance, contributions to a retirement account, and an annual salary based on experience, but starting at $54,840.
 
-### To apply:
-Review of applications will begin on February 13, 2023. Interested applicants should send a CV, cover letter, and the names of two references to hallett.lab@gmail.com. Please include your last name and “Great Basin Technician” in the subject line. The positions will remain open until full. Questions can be directed to Rachael Dennis (rdennis2@uoregon.edu) and details on the position and lab can be found at https://hallettlab.netlify.com/hiring/.
+If you have questions about the position, please send an email to hallett@uoregon.edu
 
-The University of Oregon is an equal opportunity, affirmative action institution committed to cultural diversity and compliance with the ADA. The University encourages all qualified individuals to apply and does not discriminate on the basis of any protected status, including veteran and disability status. The University is committed to providing reasonable accommodations to applicants and employees with disabilities. UO prohibits discrimination on the basis of race, color, sex, national or ethnic origin, age, religion, marital status, disability, veteran status, sexual orientation, gender identity, and gender expression in all programs, activities and employment practices as required by Title IX, other applicable laws, and policies.
+ESSENTIAL DUTIES 
+-	Oversee a large-scale field experiment assessing species coexistence in relation to rainfall variability, nutrient enrichment, and grazing. This includes helping to craft the overall design and leading data collection, analysis, and writing.  
+-	Participate in collaborative manuscripts, such as through the Nutrient Network and synthesis collaborations within Institute of Ecology and Evolution at UO.   
+-	Provide mentorship for graduate students exploring multi-species coexistence in relation to variable resource and pollinator availability.   
+-	Present results through peer-reviewed publication and presentations as conferences.  
+
+
+QUALIFICATIONS
+-	A PhD in ecology, environmental science, mathematics, or a related field by their start date.   
+-	A demonstrated interest and ability in working both independently and collaboratively.   
+-	Evidence of strong written and oral communication skills, such as through conference presentations and submissions of previous work to peer-reviewed journals.   
+-	A commitment to fostering inclusivity and diversity in the science.  
+-	A background in ecological theory is preferred, as is experience in one or more scripting languages, especially R.   
+
+ADDITIONAL INFORMATION
+The Hallett Lab is situated with the Institute of Ecology and Evolution, the Biology Department, and the Environmental Studies Program at the University of Oregon. There are strong research programs and collaborations across these affiliations. The university is located in Eugene, OR, which is a bike-friendly town, with many natural areas within and around town, and access to the coast and the mountains within an hour drive. The campus is within walking distance of the downtown, the Willamette River, and Alton Baker Park. 
+
+The University of Oregon is an equal opportunity, affirmative action institution committed to cultural diversity and compliance with the ADA. The University encourages all qualified individuals to apply and does not discriminate on the basis of any protected status, including veteran and disability status. The University is committed to providing reasonable accommodations to employees with disabilities. UO prohibits discrimination on the basis of race, color, sex, national or ethnic origin, age, religion, marital status, disability, veteran status, sexual orientation, gender identity, and gender expression in all programs, activities and employment practices as required by Title IX, other applicable laws, and policies.
+
 
 
 ## Opportunities for undergraduates
