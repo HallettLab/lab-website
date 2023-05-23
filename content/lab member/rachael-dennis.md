@@ -6,7 +6,7 @@ date: 2017-01-19
 ---
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/jazz_dhillon.jpg" alt="Jazz Dhillon">}}
+  {{< figure thumb="_tn" src="/img/headshots/rachael_dennis.jpg" alt="Rachael Dennis">}}
 {{< /gallery >}} 
 
 <!--more-->
