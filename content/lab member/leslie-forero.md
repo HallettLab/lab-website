@@ -2,7 +2,6 @@
 title: Leslie Forero
 subtitle: Guest Postdoctoral Researcher
 date: 2017-03-10
-
 ---
 
 
