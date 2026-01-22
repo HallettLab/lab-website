@@ -1,5 +1,6 @@
-baseurl = "https://hallettlab.netlify.com/"
+baseurl = "https://hallettlab.netlify.app/"
 DefaultContentLanguage = "en"
+relativeURLs = true
 #DefaultContentLanguage = "ja"
 title = "Hallett Lab"
 theme = "beautifulhugo"
@@ -29,13 +30,13 @@ paginate = 22
 [[Params.bigimg]]
   src = "img/kc with cow.jpg"
   desc = "Serpentine grassland at Kirby Canyon"
-  
+
 [[Params.bigimg]]
-  src = "img/shootingstar_cropped.jpg"
+  src = "img/shootingstar_cropped.JPG"
   desc = "Shooting star at Vasco Caves"
-  
+
 [[Params.bigimg]]
-  src = "img/lianavish.jpg"
+  src = "img/lianavish.JPG"
   desc = "Counting plants at Sierra Foothills"
   
 
