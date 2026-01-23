@@ -1,4 +1,5 @@
 baseurl = "https://hallettlab.netlify.app"
+canonifyURLs = true
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Hallett Lab"
