@@ -1,6 +1,5 @@
-baseurl = "https://hallettlab.netlify.app/"
+baseurl = "https://hallettlab.netlify.app"
 DefaultContentLanguage = "en"
-relativeURLs = true
 #DefaultContentLanguage = "ja"
 title = "Hallett Lab"
 theme = "beautifulhugo"
