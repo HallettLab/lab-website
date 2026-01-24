@@ -34,7 +34,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="{{ .Site.Title }}" />
 <!-- Hugo Version number -->
-  {{ .Hugo.Generator -}}
+  {{ hugo.Generator -}}
 <!-- Links and stylesheets -->
   <link rel="canonical" href="{{ .Permalink }}" />
   {{- with .OutputFormats.Get "RSS" }}
