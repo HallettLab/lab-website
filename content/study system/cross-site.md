@@ -5,7 +5,7 @@ date: 2017-03-07
 
 ---
 
-<image thumb="_tn" src="/img/LTER.jpg" caption="Grassland LTER sites across the US">
+![Grassland LTER sites across the US](/img/LTER.jpg)
 
 <!--more-->
 
