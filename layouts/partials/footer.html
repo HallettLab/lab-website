@@ -17,11 +17,9 @@
           {{ end }}
           {{ if .Site.Params.rss }}
           <li>
-            {{ if .RSSLink }}
-            <a href="{{ .RSSLink }}" title="RSS">
-            {{ else }}
-            <a href="{{ .Site.RSSLink }}" title="RSS">
-            {{ end }}
+            {{- with .OutputFormats.Get "RSS" }}
+            <a href="{{ .Permalink }}" title="RSS">
+            {{- end }}
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
