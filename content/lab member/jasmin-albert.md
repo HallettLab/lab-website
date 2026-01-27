@@ -1,6 +1,6 @@
 ---
 title: "Jasmin Albert"
-subtitle: PhD Student 
+subtitle: PhD Candidate 
 date: '2017-03-31'
 ---
 
